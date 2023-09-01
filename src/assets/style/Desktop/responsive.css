@@ -1,0 +1,5 @@
+@media screen and (max-width: 1100px) {
+	.odds-panel table tbody td ul li {
+		width: 70px;
+	}
+}

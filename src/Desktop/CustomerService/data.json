@@ -1,0 +1,52 @@
+{
+    "buttonList": [
+        {
+            "label": "Live Chat",
+            "key": "liveChat",
+            "img": "/images/live-chat.png",
+            "className": "live-chat"
+        },
+        {
+            "label": "Question",
+            "key": "question",
+            "img": "/images/question.png",
+            "className": "question"
+        },
+        {
+            "label": "Bet Regulation",
+            "key": "betRegulation",
+            "img": "/images/rule.png",
+            "className": "rule"
+        },
+        {
+            "label": "Deposit",
+            "key": "deposit",
+            "img": "/images/deposit.png",
+            "className": "deposit"
+        },
+        {
+            "label": "Bonus",
+            "key": "bonus",
+            "img": "/images/bonus.png",
+            "className": "bonus"
+        },
+        {
+            "label": "Sample",
+            "key": "sample1",
+            "img": "",
+            "className": "sample"
+        },
+        {
+            "label": "Sample",
+            "key": "sample2",
+            "img": "",
+            "className": "sample"
+        },
+        {
+            "label": "Sample",
+            "key": "bonus3",
+            "img": "",
+            "className": "sample"
+        }
+    ]
+}

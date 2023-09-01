@@ -1,0 +1,329 @@
+.casino__header {
+    overflow-x: auto;
+    overflow-y: hidden;
+    display: flex;
+    align-items: center;
+     background: #1F1F1F;
+    /*box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); */
+}
+
+.casino__header::-webkit-scrollbar {
+    display: none;
+}
+
+.casino__header .sports__content_sm {
+    height: 13.8vw;
+    min-height: 56px;
+}
+
+.casino__category span {
+    min-width: 18vw;
+    display: block;
+    text-align: center;
+    padding: 0 4vw;
+    margin: 2.6vw 1.3vw 2.6vw 0;
+    cursor: pointer;
+    transition: 0.2s;
+    font-size: 15px;
+    font-weight: bold;
+    line-height: 8.6vw;
+    height: 8.6vw;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    white-space: nowrap;
+    text-transform: capitalize;
+    background: rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+    color: #FFFFFF;
+}
+
+.casino-dark {
+    background: #585858;
+}
+
+.casino__category span i {
+    font-size: 5vw;
+    line-height: 8.6vw;
+    margin-right: 1vw;
+    color: #FFFBF6;
+}
+.providers-list{
+    display: inline-flex;
+    background-color: #efefef;
+    width: 100%;
+    padding: 15px;
+    color: #333;
+    margin-bottom: 5px;
+}
+.h2-casino{
+    padding: 0 10px;
+    font-size: 16px;
+    border-right: 1px solid #FFFFFF;
+    font-weight: bold;
+}.h2-casino.active{
+    padding: 0 10px;
+    font-size: 12px;
+    color: #0b2e13;
+}
+.casino-provider {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 5px !important;
+    /*margin: 0 15px !important;*/
+    padding-bottom: 21% !important;
+    background-color: #ffffff;
+
+}
+.casino__category span i.icon-all {
+    font-size: 3.6vw;
+    line-height: 8.6vw;
+    margin-right: 2.2vw;
+}
+
+.casino__category-search span {
+    background: none;
+    box-shadow: none;
+    padding: 0 3vw;
+    min-width: 40px;
+}
+
+.casino__category span .icon-search {
+    vertical-align: middle;
+    font-size: 4vw;
+    line-height: 1;
+    font-weight: bold;
+    color: #ffc107;
+}
+
+.casino__category span .icon-search:before {
+    font-weight: bold;
+}
+
+.casino__category_active span {
+    background: #fff;
+    color: #000;
+    border-radius: 8px;
+    box-shadow: none;
+}
+
+.casino__category_active span i {
+    color: #000;
+}
+
+.casino__title {
+    font-size: 20px;
+    color: #040B20 !important;
+}
+
+.casino__list {
+    display: flex;
+    flex-wrap: wrap;
+    /*padding: 0 5px!important;*/
+    /*margin: 0 15px !important;*/
+    padding-bottom: 21% !important;
+    background-color: #000000;
+    padding-top: 5px;
+}
+
+.casino__list .casino__provider-wrap:last-child {
+    margin-bottom: 80px;
+}
+
+.casino__item {
+    width: 30%;
+    padding-top: calc(28.845% - 2.3076px);
+    margin: 6px;
+    background: radial-gradient(#fff,#e9e9e9);
+    border-radius: 16px;
+    overflow: hidden;
+    user-select: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    position: relative;
+    height: 30vw;
+}
+
+.casino__iframe2 {
+    border: 0;
+    position: fixed;
+    top: 0px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.casino__items {
+    width: calc((100% - 8px) / 2);
+    margin: 0 2px;
+    border-radius: 0;
+}
+.categories-casino-mobile {
+background-color: #ccc;
+
+}
+.casino__items .casino__item {
+    width: 100%;
+    padding-top: calc(100% * 0.5769);
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.casino__item_big {
+    padding-top: calc((100% - 8px) / 2 * 0.5769 * 2);
+}
+
+.casino__items .casino__item_big {
+    padding-top: calc((100% + 4px) * 0.5769 * 2);
+}
+
+.casino__img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    display: block;
+    border: 3px solid #d3ae3b;
+}
+
+.casino__img1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 20%;
+    height: 100%;
+    display: block;
+}
+
+/* .casino__iframe {
+    border: 0;
+    position: fixed;
+    top: 50px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+} */
+
+.casino__iframe {
+  border: 0;
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  height: calc(100% - 65px);
+}
+
+.casino__banner img {
+    width: 100%;
+    height: auto;
+    display: block;
+    /*padding: 15px;*/
+    background-color: #FFFFFF;
+}
+
+.live-casino__coming-soon {
+    flex-grow: 1;
+    background: url('/images/live-casino-coming-soon.jpg') no-repeat center center/cover;
+    min-height: 450px;
+}
+
+.casino__provider-wrap {
+    padding-top: 4vw;
+    width: 100%;
+}
+
+.casino__provider-header {
+    display: flex;
+    align-items: center;
+    height: 6.8vw;
+    margin-bottom: 3vw;
+    padding-left: 10px;
+    justify-content: center;
+    color: #2e6440;
+}
+
+.casino__provider-header img {
+    height: calc(100% - 1.6vw);
+    width: auto;
+    display: block;
+}
+
+.casino__provider-header .casino__title {
+    white-space: nowrap;
+    color: #2e6440 !important;
+}
+
+.casino__provider-divider {
+    display: block;
+    width: 1px;
+    height: 100%;
+    background: #333;
+    margin: 0 2vw;
+}
+
+.casino__provider-body {
+    overflow-y: hidden;
+}
+
+.casino__provider-body::-webkit-scrollbar {
+    display: none;
+}
+
+.casino__provider-body_big .casino__item {
+    padding-top: calc(37vw * 1.16);
+    width: 37vw;
+    min-width: 37vw;
+}
+
+.casino__provider-body_small {
+    display: block;
+    overflow-x: hidden;
+}
+
+.casino__provider-body_small > div {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -153px;
+    margin-left: 3px;
+}
+
+.casino__provider-body_small .casino__item {
+    padding-top: 18.85vw;
+    width: 32%;
+    min-width: 32%;
+    height: 40vw;
+}
+.dropiframe{
+    position: absolute;
+    top: 14vh;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,8,0,0.5);
+    z-index: 999;
+    }
+  
+    .dropiframe-mobile{
+      position: absolute;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0,8,0,0.5);
+      z-index: 999;
+      }
+  

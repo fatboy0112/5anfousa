@@ -1,0 +1,497 @@
+/* Grid start */
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.MuiGrid-container {
+    margin-left: -15px;
+    margin-right: -15px;
+}
+.MuiGrid-item{
+    margin: -2px!important;
+}
+.MuiGrid-item {
+    padding-left: 15px;
+    padding-right: 15px;
+    position: relative;
+    display: block;
+}
+.MuiGrid-item.disabled {
+    opacity: 0.4;
+}
+
+
+.MuiPaper-rounded {
+    border-radius: 10px !important;
+}
+
+.MuiTab-textColorPrimary {
+    box-shadow: inset 0 8px 8px -8px rgba(0, 0, 0, 0.1);
+}
+
+.MuiTab-textColorPrimary.Mui-selected {
+    background-color: #fff;
+    position: relative;
+    box-shadow: 0px 0px 3px rgb(0, 0, 0, 0.15);
+}
+
+.MuiAppBar-colorDefault {
+    background-color: #1F1F1F !important;
+    box-shadow: none !important;
+    color: #FFFFFF!important;
+    /* border-right: 1px solid #e1dfe2; */
+    padding: 0px 0px 0px 0px;
+    margin-bottom: 5px;
+}
+
+header .MuiAppBar-colorDefault {
+    border-right:0px;
+}
+
+.MuiAppBar-positionSticky {
+    background: #f7f7f7 !important;
+}
+
+.PrivateTabIndicator-root-9 {
+    height: auto !important;
+}
+
+.PrivateTabIndicator-root-13 {
+    height: auto !important;
+}
+
+.error {
+    color: #b31b07 !important;
+}
+
+/* Grid end */
+
+/* Text start */
+.ellipsis {
+    max-width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.text-nowrap {
+    white-space: nowrap;
+}
+.text-left {
+    text-align: left !important;
+}
+
+.text-right {
+    text-align: right !important;
+}
+
+.text-center {
+    text-align: center !important;
+}
+
+.pl-league-header.text-light {
+    color: #1e140d !important;
+}
+.text-lowercase {
+    text-transform: lowercase !important;
+}
+
+.text-uppercase {
+    text-transform: uppercase !important;
+}
+
+.text-capitalize {
+    text-transform: capitalize !important;
+}
+
+.font-weight-extralight {
+    font-weight: 100 !important;
+}
+
+.font-weight-light {
+    font-weight: 300 !important;
+}
+
+.font-weight-lighter {
+    font-weight: lighter !important;
+}
+
+.font-weight-normal {
+    font-weight: 400 !important;
+}
+
+.font-weight-semibold {
+    font-weight: 600 !important;
+}
+.font-weight-bold {
+    font-weight: 700 !important;
+}
+
+.font-weight-bolder {
+    font-weight: bolder !important;
+}
+
+.font-italic {
+    font-style: italic !important;
+}
+a.text-primary:focus,
+a.text-primary:hover {
+    color: #0056b3 !important;
+}
+
+.text-secondary {
+    color: #6c757d !important;
+}
+
+a.text-secondary:focus,
+a.text-secondary:hover {
+    color: #494f54 !important;
+}
+
+.text-success {
+    color: #28a745 !important;
+}
+
+a.text-success:focus,
+a.text-success:hover {
+    color: #19692c !important;
+}
+
+.text-info {
+    color: #17a2b8 !important;
+}
+
+a.text-info:focus,
+a.text-info:hover {
+    color: #0f6674 !important;
+}
+
+.text-warning {
+    color: #ffc107 !important;
+}
+
+a.text-warning:focus,
+a.text-warning:hover {
+    color: #ba8b00 !important;
+}
+.bg-cashback {
+    background-color: #fdcd43
+}
+.text-danger {
+    color: #dc3545 !important;
+}
+
+.bg-danger {
+    background-color: #dc3545 !important;
+}
+
+a.text-danger:focus,
+a.text-danger:hover {
+    color: #a71d2a !important;
+}
+
+.pl-league-header.text-light {
+    color: #f8f9fa !important;
+}
+
+a.text-light:focus,
+a.text-light:hover {
+    color: #cbd3da !important;
+}
+
+.text-dark {
+    color: #343a40 !important;
+}
+
+a.text-dark:focus,
+a.text-dark:hover {
+    color: #121416 !important;
+}
+
+.text-body {
+    color: #212529 !important;
+}
+
+.casino-close {
+    color: #1c7430;
+}
+
+.text-muted {
+    color: #6c757d !important;
+}
+
+.text-black-50 {
+    color: rgba(0, 0, 0, 0.5) !important;
+}
+
+.text-white {
+    color: rgba(255, 255, 255) !important;
+}
+
+.text-white-50 {
+    color: rgba(255, 255, 255, 0.5) !important;
+}
+
+/* Text end */
+
+/* Align start */
+.align-baseline {
+    vertical-align: baseline !important;
+}
+
+.align-top {
+    vertical-align: top !important;
+}
+
+.align-middle {
+    vertical-align: middle !important;
+}
+
+.align-bottom {
+    vertical-align: bottom !important;
+}
+
+.align-text-bottom {
+    vertical-align: text-bottom !important;
+}
+
+.align-text-top {
+    vertical-align: text-top !important;
+}
+/* Align end */
+
+/* Float start */
+.float-left {
+    float: left !important;
+}
+
+.float-right {
+    float: right !important;
+}
+
+.float-none {
+    float: none !important;
+}
+
+.clearfix::after {
+    display: block;
+    clear: both;
+    content: '';
+}
+/* Float end */
+
+/* Form elements start */
+.form-control {
+    display: block;
+    width: 100%;
+    height: calc(1.5em + 0.75rem + 2px);
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+/* Form elements end */
+
+/* Flex/display start */
+.d-none {
+    display: none !important;
+}
+
+.d-inline {
+    display: inline !important;
+}
+
+.d-inline-block {
+    display: inline-block !important;
+}
+
+.d-block {
+    display: block !important;
+}
+
+.d-flex {
+    display: flex !important;
+    overflow-x: auto;
+}
+
+.d-inline-flex {
+    display: inline-flex !important;
+}
+
+.flex-row {
+    flex-direction: row !important;
+}
+
+.flex-column {
+    flex-direction: column !important;
+}
+
+.flex-row-reverse {
+    flex-direction: row-reverse !important;
+}
+
+.flex-column-reverse {
+    flex-direction: column-reverse !important;
+}
+
+.flex-wrap {
+    flex-wrap: wrap !important;
+}
+
+.flex-nowrap {
+    flex-wrap: nowrap !important;
+}
+
+.flex-wrap-reverse {
+    flex-wrap: wrap-reverse !important;
+}
+
+.flex-fill {
+    flex: 1 1 auto !important;
+}
+
+.flex-grow-0 {
+    flex-grow: 0 !important;
+}
+
+.flex-grow-1 {
+    flex-grow: 1 !important;
+}
+
+.flex-shrink-0 {
+    flex-shrink: 0 !important;
+}
+
+.flex-shrink-1 {
+    flex-shrink: 1 !important;
+}
+
+.justify-content-start {
+    justify-content: flex-start !important;
+}
+
+.justify-content-end {
+    justify-content: flex-end !important;
+}
+
+.justify-content-center {
+    justify-content: center !important;
+}
+
+.justify-content-between {
+    justify-content: space-between !important;
+}
+
+.justify-content-around {
+    justify-content: space-around !important;
+}
+
+.align-items-start {
+    align-items: flex-start !important;
+}
+
+.align-items-end {
+    align-items: flex-end !important;
+}
+
+.align-items-center {
+    align-items: center !important;
+}
+
+.MuiTabs-flexContainer span {
+    height: auto !important;
+}
+
+.align-self-center {
+    align-self: center !important;
+}
+
+.PrivateTabIndicator-root-5 {
+    height: auto !important;
+}
+
+@media (min-width: 960px) {
+    .justify-content-md-center {
+        justify-content: center !important;
+    }
+}
+
+/* Flex/display End */
+
+/* Buttons Start */
+button:focus {
+    outline: none;
+}
+/* Buttons End */
+
+/* Overflow Start */
+.overflow-x-auto {
+    overflow-x: auto;
+}
+/* Overflow End */
+
+.market-tab-parent .MuiTabs-flexContainer {
+    display: block;
+}
+
+.MuiTabs-root.market-tab-parent {
+    align-items: center;
+    min-height: auto;
+}
+
+.betslipselect-odds {
+    display: flex;
+}
+
+.betslipselect-odds span {
+    width: auto;
+    float: left;
+    white-space: pre-line;
+}
+
+.whatsapp-div1 {
+    position: fixed;
+    bottom: 80px;
+    left: 10px;   
+    width: 80px;
+    height: 60px;
+    margin-bottom: 35px;
+    text-decoration: none;
+    -webkit-border-radius: 35px;
+    -moz-border-radius: 35px;
+    border-radius: 35px;
+    -webkit-transition: ease all .5s;
+    -moz-transition: ease all .5s;
+    -o-transition: ease all .5s;
+    transition: ease all .5s;
+    z-index: 999;
+    padding: 12px;
+    text-align: center;
+    filter: drop-shadow(0 0px 10px rgba(254, 215, 125, 0.2));
+}
+
+.whatsapp-div2 {
+    height: 60px;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 3px 12px;
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    cursor: pointer;
+    user-select: none;
+    position: relative;
+    background-color: rgb(255, 255, 255);
+    width: 60px;
+    border-radius: 50%;
+    outline: transparent;
+}

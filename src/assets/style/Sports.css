@@ -1,0 +1,222 @@
+.sports {
+    background: #fff;
+    box-shadow: 0px 4px 12px rgb(0 0 0 / 10%);
+}
+
+.sports__content::-webkit-scrollbar {
+    display: none;
+}
+
+.sports__content {
+    text-align: justify;
+    display: flex;
+    width: 100%;
+    padding: 0;
+    overflow-x: auto;
+    overflow-y: hidden;
+    color: #606060;
+}
+
+.sports__content.live-match {
+    padding: 0.5rem 0 !important;
+    /* background: #2294ea; */
+    background: #1F1F1F;
+    box-shadow: inset 0px -1px 0px rgba(255, 255, 255, 0.25);
+}
+
+.sports__content.sports__content_sm
+{
+    height: 13.8vw;
+    min-height: 56px;
+}
+
+.sports__content_sm {
+    height: 40px;
+}
+
+.sports__content .sports__item {
+    color: #606060 !important;
+}
+
+.sports__item {
+    display: inline-block;
+    padding-right: 10px;
+}
+
+.sports__item:first-child {
+    padding-left: 3px;
+}
+
+.sports__item_disabled {
+    pointer-events: none;
+}
+
+.sports__item_disabled .sports__box > * {
+    opacity: 0.5;
+}
+
+.sports_img {
+    width: 10vw;
+    height: 8vw;
+}
+
+.sports_img-football {
+    width: 12vw;
+    height: 10vw;
+}
+
+.sports__box {
+    margin: 0 auto;
+    font-size: 2.8vw;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.2);
+    border-radius: 11px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1vw 0.5vw;
+    color: rgba(255, 255, 255, 0.4);
+}
+
+.sports__box.sports__box_active {
+    color: #040B20;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+    border-radius: 11px;
+}
+.pre-match-wrapper .sports__box.sports__box_active {
+    background: #FFFFFF;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+    border-radius: 11px;
+}
+/* .pre-match-wrapper .sports__box.sports__box_active {
+    background-image: linear-gradient(to right, #093D6C ,#093D6C);
+    color: #fff;
+} */
+
+.sports__box i {
+    height: 9vw;
+    line-height: 10vw;
+    font-size: 6vw;
+}
+
+.sports__box .icon-search {
+    font-size: 5vw;
+}
+
+.sports__box.live-search {
+    margin: 5px !important;
+}
+
+.sports__counter {
+    position: absolute;
+    top: 1vw;
+    right: 7%;
+    font-size: 2.5vw;
+}
+
+.location {
+    position: relative;
+    width: 100%;
+    font-size: 15px;
+    line-height: 40px;
+    display: block;
+    background: #333333;
+}
+
+.location .location__rotate-icon {
+    width: 100%;
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 5.5vw;
+    display: block;
+    transition: 0.2s ease-in;
+    height: 12.5vw;
+    line-height: 12.5vw;
+}
+
+.location.location_open .location__rotate-icon {
+    transform: rotate(90deg);
+}
+
+.location.location_open .location__content {
+    max-height: 205px;
+    overflow-y: auto;
+    width: 100%;
+}
+
+.location .flag {
+    margin-right: 15px;
+    min-width: 20px;
+}
+
+.location__content {
+    max-height: 0;
+    overflow: hidden;
+    background: #222432;
+    /* box-shadow: inset 0 8px 8px -8px #cbcbcb, inset 0 -8px 8px -8px #cbcbcb; */
+    color: #FFFBF6;
+    font-size: 2.8vw;
+    line-height: 11.6vw;
+}
+
+.location__content > div {
+    width: 100% !important;
+    background-color: #505050;
+}
+
+.location__content .location__league {
+    padding-left: 40px !important;
+}
+
+.align-i {
+    display: block !important;
+    height: 11.6vw;
+    line-height: 11.6vw;
+    font-size: 4.5vw;
+}
+
+.location__item {
+    width: 95% !important;
+    overflow: hidden;
+    cursor: pointer;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    color: #FFFBF6;;
+    font-size: 3.8vw;
+    height: 12.5vw;
+    line-height: 12.5vw;
+}
+
+.location__item .ellipsis {
+    max-width: calc(100% - 45px);
+    color: #FFFFFF;
+}
+
+.location__divider {
+    width: calc(100% - 45px);
+    height: 1px;
+    background-color: #dbdbdb;
+    float: right;
+}
+
+.events__wrap .MuiPaper-root {
+    top: calc(13vw - 0px);
+    box-shadow: 0 2px 2px rgba(0, 0, 0, 0.15) !important;
+    z-index: 10;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 10px 12px ;
+}
+
+.sports__box .sports__name {
+    overflow: hidden;
+    white-space: nowrap;
+    line-height: 100%;
+    text-overflow: ellipsis;
+    max-width: 100%;
+    padding-left: 5px;
+    padding-right: 25px;
+    font-size: 4vw;
+}

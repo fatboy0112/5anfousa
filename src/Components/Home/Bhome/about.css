@@ -1,0 +1,68 @@
+.page {
+    max-width: 85%;
+    margin: 30px auto 20px;
+    min-height: 60vh;
+    display: flex;
+}
+
+.content .page-content {
+    width: 100%;
+    position: relative;
+    top: -12px;
+}
+.about-page .about-details {
+    display: flex;
+    max-width: 90%!important;
+    justify-content: center;
+    margin: 120px auto 30px;
+}
+.about-page .about-item {
+    max-width: 400px!important;
+    margin-right: 40px;
+}
+.about-page .about-details .item-header {
+    color: #fff;
+    text-align: center;
+}
+.about-page .about-details .item-header i {
+    font-size: 50px;
+}
+.about-page .about-item {
+    max-width: 400px!important;
+    margin-right: 40px;
+}
+.page {
+    text-align: -webkit-center;
+}
+.about-page h1 {
+    text-align: center;
+    margin-top: 20px!important;
+}
+.page h1 {
+    font-family: sans-serif;
+        color: white;
+    margin: 0!important;
+    padding: 0!important;
+}
+.content .page-content {
+    width: 100%;
+    position: relative;
+    top: -12px;
+}
+
+.about-page p {
+    max-width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    line-height: 2.5em;
+}
+
+.page p {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    line-height: 25px;
+    font-family: cursive;
+    color: #eee;
+    /* text-align: justify; */
+}

@@ -1,0 +1,43 @@
+.carousel {
+    overflow: hidden;
+}
+
+.inner {
+    white-space: nowrap;
+    transition: transform 0.3s;
+}
+
+.carousel-item {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    /*height: 200px;*/
+    color: #fff;
+    margin-top: 10px;
+}
+
+.indicators {
+    display: flex;
+    justify-content: center;
+}
+
+.indicators > .button {
+    margin: 5px;
+    text-align: center;
+    font-weight: bold;
+    color: #ffc107;
+    height: 8px;
+    line-height: 20px;
+    font-size: 20px;
+    width: 8px;
+    background: #fff3cd;
+    border-radius: 50%;
+}
+
+.indicators > .button.active {
+    background: #ffc107;
+}
+
+.carousel-item img {
+    width: 100%;
+}

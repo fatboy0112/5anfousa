@@ -1,0 +1,1773 @@
+.flag {
+    display: inline-block;
+    vertical-align: middle;
+    width: 24px;
+    height: 24px;
+    background-image: url(/images/flags.png);
+    background-repeat: no-repeat;
+    background-position: 100px 0;
+    transform: scale(0.8);
+    transform-origin: left center;
+}
+
+.flag[country='flag_home'] {
+    background-image: none;
+}
+
+/* .flag[country='flag_worldcup'] {
+    background-position: -287px -384px;
+} */
+
+.flag[country='flag_4'] {
+    /*international*/
+    background-position: -239px -384px;
+}
+
+.flag[country='flag_393'] {
+    /*international*/
+    background-position: -239px -384px;
+}
+
+.flag[country='flag_uefachampionsleague'] {
+    background-position: -47px -72px;
+    -webkit-filter: invert(0);
+    filter: invert(0);
+}
+
+.flag[country='flag_uefaeuropaleague'] {
+    background-position: -336px -96px;
+}
+
+.flag[country='flag_copaamericacnt'] {
+    background-position: -264px -72px;
+    width: 24px;
+    height: 24px;
+    margin-left: 10px;
+}
+
+.flag[country='flag_wta'] {
+    background-position: -1px -405px;
+}
+
+.flag[country='flag_atp'] {
+    background-position: -25px -405px;
+}
+
+.flag[country='flag_itf'] {
+    background-position: -50px -405px;
+    transform: scale(0.8);
+}
+
+.flag[country='flag_challenger'] {
+    background-position: -74px -405px;
+}
+
+.flag[country='flag_daviscup'] {
+    background-position: -149px -405px;
+}
+
+.flag[country='flag_fedcup'] {
+    background-position: -173px -405px;
+}
+
+.flag[country='flag_euro'] {
+    background-position: -336px -385px;
+}
+
+.flag[country='flag_asean'] {
+    background-position: 0 0;
+}
+
+.flag[country='flag_310'] {
+    background-position: -216px -291px;
+}
+
+.flag[country='flag_322'] {
+    background-position: -120px -315px;
+}
+
+.flag[country='flag_african-union-oas'] {
+    background-position: -72px 0;
+}
+
+/* .flag[country='flag_166'] {
+    background-position: -96px 0;
+} */
+
+.flag[country='flag_304'] {
+    /*algeria*/
+    background-position: -120px 0;
+}
+
+.flag[country='flag_america'] {
+    background-position: -144px 0;
+}
+
+/* .flag[country='flag_170'] {
+    background-position: -168px 0;
+} */
+
+/* .flag[country='flag_251'] {
+    background-position: -192px 0;
+} */
+
+.flag[country='flag_500'] {
+    /*angola*/
+    background-position: -216px 0;
+}
+
+.flag[country='flag_385'] {
+    background-position: -72px -3px;
+}
+
+/* .flag[country='flag_169'] {
+    background-position: -264px 0;
+} */
+
+/* .flag[country='flag_164'] {
+    
+    background-position: -288px 0;
+} */
+
+.flag[country='flag_arab-league'] {
+    background-position: -312px 0;
+}
+
+.flag[country='flag_48'] {
+    /*argentina*/
+    background-position: -336px 0;
+}
+
+.flag[country='flag_296'] {
+    /*armenia*/
+    background-position: -360px 0;
+}
+
+/* .flag[country='flag_70'] {
+    background-position: 0 -24px;
+} */
+
+.flag[country='flag_asia'] {
+    background-position: -24px -24px;
+}
+
+.flag[country='flag_34'] {
+    /*australia*/
+    background-position: -48px -24px;
+}
+
+.flag[country='flag_17'] {
+    /*austria*/
+    background-position: -72px -24px;
+}
+.flag[country='flag_97'] {
+    /*austria*/
+    background-position: -72px -24px;
+}
+.flag[country='flag_173'] {
+    /*azerbaijan*/
+    background-position: -96px -24px;
+}
+
+/* .flag[country='flag_184'] {
+    background-position: -120px -24px;
+} */
+
+/* .flag[country='flag_179'] {
+    background-position: -144px -24px;
+} */
+
+.flag[country='flag_469'] {
+    /*bangladesh*/
+    background-position: -168px -24px;
+}
+
+/* .flag[country='flag_175'] {
+    background-position: -192px -24px;
+} */
+
+.flag[country='flag_91'] {
+    /*belarus*/
+    background-position: -216px -24px;
+}
+
+.flag[country='flag_33'] {
+    /*belgium*/
+    background-position: -240px -24px;
+}
+
+/* .flag[country='flag_188'] {
+    background-position: -264px -24px;
+} */
+
+/* .flag[country='flag_180'] {
+    background-position: -288px -24px;
+} */
+
+/* .flag[country='flag_181'] {
+    background-position: -312px -24px;
+} */
+
+/* .flag[country='flag_185'] {
+    background-position: -336px -24px;
+} */
+
+.flag[country='flag_379'] {
+    /*bolivia*/
+    background-position: -360px -24px;
+}
+
+.flag[country='flag_158'] {
+    background-position: 0 -48px;
+}
+
+/* .flag[country='flag_174'] {
+    background-position: -24px -48px;
+} */
+/* 
+.flag[country='flag_186'] {
+    background-position: -48px -48px;
+} */
+
+.flag[country='flag_13'] {
+    /*brazil*/
+    background-position: -72px -48px;
+}
+
+/* .flag[country='flag_182'] {
+    background-position: -96px -48px;
+} */
+
+.flag[country='flag_78'] {
+    /*bulgaria*/
+    background-position: -120px -48px;
+}
+
+/* .flag[country='flag_177'] {
+    background-position: -144px -48px;
+} */
+
+/* .flag[country='flag_205'] {
+    background-position: -168px -48px;
+} */
+
+.flag[country='flag_caricom'] {
+    background-position: -192px -48px;
+}
+
+.flag[country='flag_cis'] {
+    background-position: -216px -48px;
+}
+
+.flag[country='flag_852'] {
+    /*cambodia*/
+    background-position: -240px -48px;
+}
+
+.flag[country='flag_cambodja'] {
+    background-position: -264px -48px;
+}
+
+.flag[country='flag_391'] {
+    /*cameroon*/
+    background-position: -288px -48px;
+}
+
+.flag[country='flag_388'] {
+    /*canada*/
+    background-position: -312px -48px;
+}
+
+/* .flag[country='flag_200'] {
+
+    background-position: -336px -48px;
+} */
+
+/* .flag[country='flag_156'] {
+    background-position: -360px -48px;
+} */
+
+/* .flag[country='flag_190'] {
+    background-position: 0 -72px;
+} */
+
+/* .flag[country='flag_95'] {
+    background-position: -24px -72px;
+} */
+
+.flag[country='flag_championsleague'] {
+    background-position: -48px -72px;
+}
+
+.flag[country='flag_49'] {
+    /*chile*/
+    background-position: -72px -72px;
+}
+
+.flag[country='flag_99'] {
+    /*china*/
+    background-position: -96px -72px;
+}
+
+.flag[country='flag_274'] {
+    /*colombia*/
+    background-position: -120px -72px;
+}
+
+.flag[country='flag_commonwealth'] {
+    background-position: -144px -72px;
+}
+
+.flag[country='flag_351'] {
+    background-position: -144px -27px;
+}
+
+.flag[country='flag_367'] {
+    background-position: -168px -243px;
+}
+
+.flag[country='flag_755'] {
+    background-position: -71px -266px;
+}
+
+.flag[country='flag_congo-brazzaville'] {
+    background-position: -192px -72px;
+}
+
+.flag[country='flag_congo-kinshasa'] {
+    background-position: -216px -72px;
+}
+
+/* .flag[country='flag_194'] {
+    background-position: -240px -72px;
+} */
+
+.flag[country='flag_copaamerica'] {
+    background-position: -264px -72px;
+}
+
+/* .flag[country='flag_198'] {
+    
+    background-position: -288px -72px;
+} */
+
+.flag[country='flag_cote-divoire'] {
+    background-position: -312px -72px;
+}
+
+.flag[country='flag_14'] {
+    /*croatia*/
+    background-position: -336px -72px;
+}
+
+/* .flag[country='flag_199'] {
+    background-position: -360px -72px;
+} */
+
+/* .flag[country='flag_75'] {
+    background-position: 0 -96px;
+} */
+
+/* .flag[country='flag_202'] {
+    background-position: -24px -96px;
+} */
+
+.flag[country='flag_8'] {
+    /*denmark*/
+    background-position: -48px -96px;
+}
+
+/* .flag[country='flag_134'] {
+    background-position: -72px -96px;
+} */
+
+.flag[country='flag_18'] {
+    background-position: -240px -266px;
+}
+
+.flag[country='flag_1024'] {
+    /*dominicanrepublic*/
+    background-position: -120px -96px;
+}
+
+.flag[country='flag_165'] {
+    /*ecuador*/
+    background-position: -144px -96px;
+}
+
+.flag[country='flag_305'] {
+    /*egypt*/
+    background-position: -168px -96px;
+}
+
+.flag[country='flag_89'] {
+    /*england*/
+    background-position: -216px -96px;
+}
+
+/* .flag[country='flag_141'] {
+    background-position: -264px -96px;
+} */
+
+.flag[country='flag_92'] {
+    /*estonia*/
+    background-position: -288px -96px;
+}
+
+/* .flag[country='flag_39'] {
+    background-position: -312px -96px;
+} */
+
+.flag[country='flag_europaleague'] {
+    background-position: -336px -96px;
+}
+
+.flag[country='flag_europe'] {
+    background-position: -360px -96px;
+}
+
+/* .flag[country='flag_146'] {
+    background-position: -24px -120px;
+} */
+
+/* .flag[country='flag_144'] {
+    background-position: -48px -120px;
+} */
+
+.flag[country='flag_19'] {
+    /*finland*/
+    background-position: -72px -120px;
+}
+
+.flag[country='flag_7'] {
+    /*france*/
+    background-position: -96px -120px;
+}
+
+/* .flag[country='flag_208'] {
+    background-position: -120px -120px;
+} */
+
+/* .flag[country='flag_45'] {
+    background-position: -144px -120px;
+} */
+
+.flag[country='flag_270'] {
+    /*Georgia*/
+    background-position: -168px -120px;
+}
+
+.flag[country='flag_30'] {
+    /*germany*/
+    background-position: -192px -120px;
+}
+
+.flag[country='flag_542'] {
+    /*ghana*/
+    background-position: -216px -120px;
+}
+
+/* .flag[country='flag_44'] {
+    background-position: -240px -120px;
+} */
+
+/* .flag[country='flag_2'] {
+    background-position: -264px -120px;
+} */
+
+.flag[country='flag_542'] {
+    /*greece*/
+    background-position: -288px -120px;
+}
+
+/* .flag[country='flag_210'] {
+    background-position: -312px -120px;
+} */
+
+/* .flag[country='flag_41'] {
+    background-position: -336px -120px;
+} */
+
+/* .flag[country='flag_46'] {
+    background-position: -360px -120px;
+} */
+
+/* .flag[country='flag_51'] {
+    background-position: 0 -144px;
+} */
+
+.flag[country='flag_365'] {
+    /*guatemala*/
+    background-position: -24px -144px;
+}
+
+.flag[country='flag_guernsey'] {
+    background-position: -48px -144px;
+}
+
+/* .flag[country='flag_237'] {
+    background-position: -72px -144px;
+} */
+
+/* .flag[country='flag_211'] {
+    background-position: -96px -144px;
+} */
+
+/* .flag[country='flag_52'] {
+    background-position: -120px -144px;
+} */
+
+/* .flag[country='flag_56'] {
+    background-position: -144px -144px;
+} */
+
+.flag[country='flag_437'] {
+    /*honduras*/
+    background-position: -168px -144px;
+}
+
+/* .flag[country='flag_53'] {
+    background-position: -192px -144px;
+} */
+
+.flag[country='flag_11'] {
+    /*hungary*/
+    background-position: -216px -144px;
+}
+
+.flag[country='flag_10'] {
+    /*iceland*/
+    background-position: -240px -144px;
+}
+
+.flag[country='flag_497'] {
+    /*india*/
+    background-position: -264px -144px;
+}
+
+/* .flag[country='flag_58'] {
+    background-position: -288px -144px;
+} */
+
+.flag[country='flag_301'] {
+    /*iran*/
+    background-position: -336px -144px;
+}
+
+/* .flag[country='flag_214'] {
+    background-position: -360px -144px;
+} */
+
+.flag[country='flag_51'] {
+    /*Ireland*/
+    background-position: 0 -168px;
+}
+
+.flag[country='flag_islamic-conference'] {
+    background-position: -24px -168px;
+}
+
+.flag[country='flag_isle-of-man'] {
+    background-position: -48px -168px;
+}
+
+.flag[country='flag_66'] {
+    /*israel*/
+    background-position: -72px -168px;
+}
+
+.flag[country='flag_31'] {
+    /*italy*/
+    background-position: -96px -168px;
+}
+
+/* .flag[country='flag_63'] {
+    background-position: -120px -168px;
+} */
+
+.flag[country='flag_jersey'] {
+    background-position: -144px -168px;
+}
+
+.flag[country='flag_329'] {
+    /*jordan*/
+    background-position: -168px -168px;
+}
+
+.flag[country='flag_278'] {
+    /*kazakhstan*/
+    background-position: -192px -168px;
+}
+
+.flag[country='flag_805'] {
+    /*kenya*/
+    background-position: -216px -168px;
+}
+
+/* .flag[country='flag_151'] {
+    background-position: -240px -168px;
+} */
+
+/* .flag[country='flag_154'] {
+    background-position: -264px -168px;
+} */
+
+.flag[country='flag_291'] {
+    background-position: -288px -168px;
+}
+
+/* .flag[country='flag_253'] {
+    background-position: -312px -168px;
+} */
+
+/* .flag[country='flag_155'] {
+    background-position: -336px -168px;
+} */
+
+/* .flag[country='flag_150'] {
+    background-position: -360px -168px;
+} */
+
+/* .flag[country='flag_157'] {
+    background-position: 0 -192px;
+} */
+
+.flag[country='flag_163'] {
+    /*latvia*/
+    background-position: -24px -192px;
+}
+
+/* .flag[country='flag_158'] {
+    background-position: -48px -192px;
+} */
+
+/* .flag[country='flag_127'] {
+    background-position: -72px -192px;
+} */
+
+/* .flag[country='flag_liberia'] {
+    background-position: -96px -192px;
+} */
+
+/* .flag[country='flag_130'] {
+    background-position: -120px -192px;
+} */
+
+/* .flag[country='flag_67'] {
+    background-position: -144px -192px;
+} */
+
+.flag[country='flag_160'] {
+    /*lithuania*/
+    background-position: -168px -192px;
+}
+
+.flag[country='flag_197'] {
+    /*luxembourg*/
+    background-position: -192px -192px;
+}
+
+/* .flag[country='flag_109'] {
+    background-position: -216px -192px;
+} */
+
+/* .flag[country='flag_234'] {
+    background-position: -240px -192px;
+} */
+
+/* .flag[country='flag_133'] {
+    background-position: -264px -192px;
+} */
+
+/* .flag[country='flag_115'] {
+    background-position: -288px -192px;
+} */
+
+.flag[country='flag_85'] {
+    /*malaysia*/
+    background-position: -312px -192px;
+}
+
+/* .flag[country='flag_114'] {
+    background-position: -336px -192px;
+} */
+
+/* .flag[country='flag_106'] {
+    background-position: -360px -192px;
+} */
+
+.flag[country='flag_134'] {
+    /*malta*/
+    background-position: 0 -216px;
+}
+
+/* .flag[country='flag_105'] {
+    background-position: -24px -216px;
+} */
+
+/* .flag[country='flag_110'] {
+    
+    background-position: -48px -216px;
+} */
+
+/* .flag[country='flag_111'] {
+    background-position: -72px -216px;
+} */
+
+/* .flag[country='flag_113'] {
+    
+    background-position: -96px -216px;
+} */
+
+.flag[country='flag_12'] {
+    /*mexico*/
+    background-position: -120px -216px;
+}
+
+/* .flag[country='flag_40'] {
+    background-position: -144px -216px;
+} */
+
+.flag[country='flag_279'] {
+    /*moldova*/
+    background-position: -168px -216px;
+}
+
+/* .flag[country='flag_132'] {
+    background-position: -192px -216px;
+} */
+
+/* .flag[country='flag_108'] {
+    background-position: -216px -216px;
+} */
+
+.flag[country='flag_386'] {
+    /*montenegro*/
+    background-position: -240px -216px;
+}
+
+/* .flag[country='flag_112'] {
+    background-position: -264px -216px;
+} */
+
+.flag[country='flag_303'] {
+    /*morocco*/
+    background-position: -288px -216px;
+}
+
+/* .flag[country='flag_117'] {
+    background-position: -312px -216px;
+} */
+
+.flag[country='flag_107'] {
+    background-position: -96px -168px;
+}
+
+.flag[country='flag_nato'] {
+    background-position: -360px -216px;
+}
+
+/* .flag[country='flag_118'] {
+    background-position: 0 -240px;
+} */
+
+/* .flag[country='flag_35'] {
+    background-position: -24px -240px;
+} */
+
+/* .flag[country='flag_124'] {
+    background-position: -48px -240px;
+} */
+
+/* .flag[country='flag_167'] {
+    background-position: -72px -240px;
+} */
+
+.flag[country='flag_holland'],
+.flag[country='flag_35'] {
+    /*netherlands*/
+    background-position: -96px -240px;
+}
+
+/* .flag[country='flag_33'] {
+    background-position: -120px -240px;
+} */
+
+/* .flag[country='flag_126'] {
+    background-position: -144px -240px;
+} */
+
+.flag[country='flag_389'] {
+    /*nicaragua*/
+    background-position: -168px -240px;
+}
+
+/* .flag[country='flag_532'] {
+    background-position: -192px -240px;
+} */
+
+.flag[country='flag_532'] {
+    /*nigeria*/
+    background-position: -216px -240px;
+}
+
+/* .flag[country='flag_66'] {
+    background-position: -240px -240px;
+} */
+
+.flag[country='flag_northamerica'] {
+    background-position: -264px -240px;
+}
+
+.flag[country='flag_northern-cyprus'] {
+    background-position: -288px -240px;
+}
+
+/* .flag[country='flag_241'] {
+    background-position: -312px -240px;
+} */
+
+.flag[country='flag_5'] {
+    /*norway*/
+    background-position: -336px -240px;
+}
+
+.flag[country='flag_opec'] {
+    background-position: -360px -240px;
+}
+
+.flag[country='flag_olimpic-movement'] {
+    background-position: 0 -264px;
+}
+
+.flag[country='flag_olympicgames'] {
+    background-position: -24px -264px;
+}
+
+.flag[country='flag_77'] {
+    /*oman*/
+    background-position: -48px -264px;
+}
+
+/* .flag[country='flag_21'] {
+    background-position: -72px -264px;
+} */
+
+/* .flag[country='flag_77'] {
+    background-position: -96px -264px;
+} */
+
+/* .flag[country='flag_246'] {
+    
+    background-position: -120px -264px;
+} */
+
+.flag[country='flag_526'] {
+    /*panama*/
+    background-position: -144px -264px;
+}
+
+/* .flag[country='flag_20'] {
+    background-position: -168px -264px;
+} */
+
+.flag[country='flag_280'] {
+    /*paraguay*/
+    background-position: -192px -264px;
+}
+
+.flag[country='flag_20'] {
+    /*peru*/
+    background-position: -216px -264px;
+}
+
+/* .flag[country='flag_222'] {
+    background-position: -240px -264px;
+} */
+
+.flag[country='flag_47'] {
+    /*poland*/
+    background-position: -264px -264px;
+}
+
+.flag[country='flag_44'] {
+    /*Portugal*/
+    background-position: -288px -264px;
+}
+
+/* .flag[country='flag_25'] {
+    background-position: -312px -264px;
+} */
+
+/* .flag[country='flag_223'] {
+    background-position: -336px -264px;
+} */
+
+.flag[country='flag_red-cross'] {
+    background-position: -360px -264px;
+}
+
+.flag[country='flag_republicofireland'] {
+    background-position: 0 -288px;
+}
+
+/* .flag[country='flag_256'] {
+    background-position: -24px -288px;
+} */
+
+.flag[country='flag_77'] {
+    /*romania*/
+    background-position: -48px -288px;
+}
+
+.flag[country='flag_21'] {
+    /*russia*/
+    background-position: -72px -288px;
+}
+
+/* .flag[country='flag_26'] {
+    background-position: -96px -288px;
+} */
+
+/* .flag[country='flag_159'] {
+    background-position: -120px -288px;
+} */
+
+/* .flag[country='flag_224'] {
+    background-position: -144px -288px;
+} */
+
+/* .flag[country='flag_88'] {
+    background-position: -168px -288px;
+} */
+
+/* .flag[country='flag_91'] {
+    background-position: -192px -288px;
+} */
+
+/* .flag[country='flag_80'] {
+    background-position: -216px -288px;
+} */
+
+.flag[country='flag_22'] {
+    /*scotland*/
+    background-position: -240px -288px;
+}
+
+.flag[country='flag_886'] {
+    /*senegal*/
+    background-position: -264px -288px;
+}
+
+.flag[country='flag_152'] {
+    /*serbia*/
+    background-position: -288px -288px;
+}
+
+.flag[country='flag_seyshelles'] {
+    background-position: -312px -288px;
+}
+
+/* .flag[country='flag_87'] {
+    background-position: -336px -288px;
+} */
+
+.flag[country='flag_45'] {
+    /*singapore*/
+    background-position: -360px -288px;
+}
+
+.flag[country='flag_23'] {
+    /*slovakia*/
+    background-position: 0 -312px;
+}
+
+.flag[country='flag_24'] {
+    /*slovenia*/
+    background-position: -24px -312px;
+}
+
+/* .flag[country='flag_81'] {
+    background-position: -48px -312px;
+} */
+
+/* .flag[country='flag_89'] {
+    background-position: -72px -312px;
+} */
+
+.flag[country='flag_somaliland'] {
+    background-position: -96px -312px;
+}
+
+/* .flag[country='flag_14'] {
+    background-position: -120px -312px;
+} */
+
+.flag[country='flag_southkorea-copy'] {
+    background-position: -144px -312px;
+}
+
+.flag[country='flag_southkorea'] {
+    background-position: -168px -312px;
+}
+
+.flag[country='flag_32'] {
+    /*spain*/
+    background-position: -192px -312px;
+}
+
+/* .flag[country='flag_160'] {
+    background-position: -216px -312px;
+} */
+
+/* .flag[country='flag_153'] {
+    background-position: -240px -312px;
+} */
+
+/* .flag[country='flag_7'] {
+    background-position: -264px -312px;
+} */
+
+/* .flag[country='flag_226'] {
+    background-position: -288px -312px;
+} */
+
+/* .flag[country='flag_90'] {
+    background-position: -312px -312px;
+} */
+
+/* .flag[country='flag_94'] {
+    background-position: -336px -312px;
+} */
+
+.flag[country='flag_9'] {
+    /*sweden*/
+    background-position: -360px -312px;
+}
+
+.flag[country='flag_25'] {
+    /*switzerland*/
+    background-position: 0 -336px;
+}
+
+/* .flag[country='flag_93'] {
+    background-position: -24px -336px;
+} */
+
+/* .flag[country='flag_tahiti-19'] {
+    background-position: -48px -336px;
+} */
+
+/* .flag[country='flag_104'] {
+    background-position: -72px -336px;
+} */
+
+/* .flag[country='flag_98'] {
+    background-position: -96px -336px;
+} */
+
+.flag[country='flag_803'] {
+    /*tanzania*/
+    background-position: -120px -336px;
+}
+
+/* .flag[country='flag_30'] {
+    background-position: -144px -336px;
+} */
+
+.flag[country='flag_timor-leste'] {
+    background-position: -168px -336px;
+}
+
+/* .flag[country='flag_97'] {
+    background-position: -192px -336px;
+} */
+
+/* .flag[country='flag_227'] {
+    background-position: -216px -336px;
+} */
+
+/* .flag[country='flag_228'] {
+    background-position: -240px -336px;
+} */
+
+.flag[country='flag_trinidadandtobago'] {
+    background-position: -264px -336px;
+}
+
+.flag[country='flag_378'] {
+    /*tunisia*/
+    background-position: -288px -336px;
+}
+
+.flag[country='flag_46'] {
+    /*turkey*/
+    background-position: -312px -336px;
+}
+
+.flag[country='flag_195'] {
+    /*turkey*/
+    background-position: -312px -336px;
+}
+
+/* .flag[country='flag_100'] {
+    background-position: -336px -336px;
+} */
+
+/* .flag[country='flag_29'] {
+    background-position: -360px -336px;
+} */
+
+/* .flag[country='flag_31'] {
+    background-position: 0 -360px;
+} */
+
+/* .flag[country='flag_163'] {
+    background-position: -24px -360px;
+} */
+
+.flag[country='flag_1'] {
+    background-position: -48px -360px;
+}
+
+.flag[country='flag_26'] {
+    /*usa*/
+    background-position: -72px -360px;
+}
+
+.flag[country='flag_86'] {
+    /*ukraine*/
+    background-position: -120px -360px;
+}
+
+.flag[country='flag_united-nations'] {
+    background-position: -144px -360px;
+}
+
+.flag[country='flag_unitedarabemirates'] {
+    background-position: -168px -360px;
+}
+
+.flag[country='flag_unitedkingdom'] {
+    background-position: -192px -360px;
+}
+
+.flag[country='flag_57'] {
+    /*uruguay*/
+    background-position: -216px -360px;
+}
+
+/* .flag[country='flag_5'] {
+    background-position: -240px -360px;
+} */
+
+.flag[country='flag_vtb'] {
+    background-position: -264px -360px;
+}
+
+/* .flag[country='flag_10'] {
+    background-position: -288px -360px;
+} */
+
+.flag[country='flag_vatican-city'] {
+    background-position: -312px -360px;
+}
+
+.flag[country='flag_281'] {
+    /*venezuela*/
+    background-position: -336px -360px;
+}
+
+/* .flag[country='flag_9'] {
+    background-position: -360px -360px;
+} */
+
+/* .flag[country='flag_8'] {
+    background-position: 0 -384px;
+} */
+
+/* .flag[country='flag_235'] {
+    background-position: -24px -384px;
+} */
+
+.flag[country='flag_131'] {
+    /*wales*/
+    background-position: -48px -384px;
+}
+
+/* .flag[country='flag_140'] {
+    background-position: -72px -384px;
+} */
+
+/* .flag[country='flag_232'] {
+    background-position: -120px -384px;
+} */
+
+/* .flag[country='flag_233'] {
+    background-position: -144px -384px;
+} */
+
+/* .flag[country='flag_16'] {
+    background-position: -168px -384px;
+} */
+
+.flag[country='flag_52'] {
+    /*japan*/
+    background-position: -192px -384px;
+}
+
+.flag[country='flag_rolandgarros'] {
+    background-position: -216px -384px;
+}
+
+.flag[country='flag_undefined'] {
+    background-position: -240px -384px;
+}
+
+.flag[country='flag_wimbledon'] {
+    background-position: -264px -384px;
+}
+
+.flag[country='flag_bundesliga'] {
+    background-position: -197px -406px;
+}
+
+.flag[country='flag_102'] {
+    background-position: 0px -94px;
+}
+
+.flag[country='flag_252'] {
+    background-position: -192px -360px;
+}
+
+.flag[country='flag_122'] {
+    background-position: -191px -122px;
+}
+
+.flag[country='flag_67'] {
+    background-position: -287px -122px;
+}
+
+.flag[country='flag_565'] {
+    background-position: -310px -171px;
+}
+
+.flag[country='flag_130'] {
+    background-position: -312px -237px;
+}
+
+.flag[country='flag_2123'] {
+    background-position: 0px -122px;
+}
+
+.flag[country='flag_103'] {
+    background-position: -95px -383px;;
+}
+
+.flag[country='flag_828'] {
+    background-position: -71px -73px;
+}
+
+.flag[country='flag_549'] {
+    background-position:-216px -358px;
+}
+
+.flag[country='flag_2157'] {
+    background-position: 0px -122px;
+}
+
+.flag[country='flag_3'] {
+    background-position: 0px 0px;
+}
+
+.flag[country='flag_785'] {
+    background-position: -48px -406px;
+}
+
+.flag[country='flag_6'] {
+    background-position: 0px -406px;
+}
+
+.flag[country='flag_871'] {
+    background-position: 0px -406px;
+}
+
+.flag[country='flag_27'] {
+    background-position:-95px -383px;
+}
+
+.flag[country='flag_136'] {
+    background-position:-95px -383px;
+}
+
+.flag[country='flag_15'] {
+    background-position: -144px 0px;
+}
+
+.flag[country='flag_213'] {
+    background-position: -48px -406px;
+}
+
+.flag[country='flag_297'] {
+    background-position: -96px -21px;
+}
+
+.flag[country='flag_289'] {
+    background-position: -287px -69px;
+}
+
+.flag[country='flag_95'] {
+    background-position: -48px -96px;
+}
+
+.flag[country='flag_201'] {
+    background-position: -23px -122px;
+}
+
+.flag[country='flag_159'] {
+    background-position: -240px -190px;
+}
+
+.flag[country='flag_299'] {
+    background-position: -167px -361px;
+}
+
+.flag[country='flag_2158'] {
+    background-position: 0px -122px;
+}
+
+.flag[country='flag_72'] {
+    /*challenger*/
+    background-position: -26px -406px;
+}
+
+.flag[country='flag_79'] {
+    background-position:-336px -384px;
+}
+
+.flag[country='flag_262'] {
+    background-position:-71px -290px
+}
+
+.flag[country='flag_157'] {
+    background-position:-71px -290px
+}
+
+.flag[country='flag_1525'] {
+    background-position: -216px -122px;
+}
+
+.flag[country='flag_447'] {
+    background-position: -263px -170px;
+}
+
+.flag[country='flag_laliga'] {
+    background-position: -222px -406px;
+    transform: scale(1);
+}
+
+.flag[country='super-lig'] {
+    background-position: -244px -406px;
+    transform: scale(1);
+}
+
+.flag[country='premier-lig'] {
+    background-position: -265px -408px;
+    transform: scale(1);
+}
+
+.flag[country='serie'] {
+    background-position: -288px -408px;
+    transform: scale(1);
+}
+
+.flag[country='nba'] {
+    background-position: -308px -408px;
+    transform: scale(1);
+}
+
+.flag[country='ufc'] {
+    background-position: -332px -408px;
+    transform: scale(1);
+}
+
+.flag[country='flag_351'] {
+    background-position: -143px -22px;
+}
+
+.flag[country='flag_367'] {
+    background-position: -168px -239px;
+}
+
+.flag[country='flag_755'] {
+    background-position: -71px -262px;
+}
+
+.flag[country='flag_56'] {
+    background-position:-95px -383px;
+}
+
+.flag[country='flag_37'] {
+    /*usa*/
+    background-position: -72px -360px;
+}
+
+.flag[country='flag_39'] {
+    /*sweden*/
+    background-position: -360px -312px;
+}
+
+.flag[country='flag_101'] {
+    /*russia*/
+    background-position: -72px -288px;
+}
+
+.flag[country='flag_42'] {
+    background-position: -240px -266px;
+}
+
+.flag[country='flag_368'] {
+    background-position: -287px -145px;
+}
+
+.flag[country='flag_113'] {
+    /*australia*/
+    background-position: -48px -24px;
+}
+
+.flag[country='flag_64'] {
+    /*denmark*/
+    background-position: -48px -96px;
+}
+
+.flag[country='flag_392'] {
+    /*international*/
+    background-position: -239px -384px;
+}
+
+.flag[country='flag_284'] {
+    /*poland*/
+    background-position: -264px -264px;
+}
+
+.flag[country='flag_41'] {
+    /*germany*/
+    background-position: -192px -120px;
+}
+
+.flag[country='flag_275'] {
+    /*belarus*/
+    background-position: -216px -24px;
+}
+
+.flag[country='flag_40'] {
+    /*finland*/
+    background-position: -72px -120px;
+}
+
+.flag[country='flag_54'] {
+    /*switzerland*/
+    background-position: 0 -336px;
+}
+
+.flag[country='flag_539'] {
+    /*Philippines*/
+    background-position: -240px -267px;
+}
+
+.flag[country='flag_155'] {
+    /*sweden*/
+    background-position: -360px -312px;
+}
+
+.flag[country='flag_421'] {
+    /*spain*/
+    background-position: -192px -312px;
+}
+
+.flag[country='flag_485'] {
+    /*thailand*/
+    background-position: -288px -75px;
+
+}
+
+.flag[country='flag_254'] {
+    /*turkey*/
+    background-position: -312px -336px;
+}
+
+.flag[country='flag_107'] {
+    /*italy*/
+    background-position: -96px -168px;
+}
+
+.flag[country='flag_395'] {
+    /*mexico*/
+    background-position: -120px -216px;
+}
+
+.flag[country='flag_306'] {
+    /*latvia*/
+    background-position: -24px -192px;
+}
+
+.flag[country='flag_98'] {
+    /*slovakia*/
+    background-position: 0 -312px;
+}
+
+.flag[country='flag_1043'] {
+    /*bhutan*/
+    background-position:-335px -23px;
+}
+
+.flag[country='flag_956'] {
+    /*burundi*/
+    background-position:-168px -46px;
+}
+
+
+.flag[country='flag_827'] {
+    /*curacao*/
+    background-position:-23px -242px
+}
+
+.flag[country='flag_352'] {
+    /*india*/
+    background-position: -264px -144px;
+}
+
+.flag[country='flag_787'] {
+    /*kyrgyzstan*/
+    background-position: -360px -165px;
+}
+
+.flag[country='flag_1042'] {
+    /*mongolia*/
+    background-position: -216px -215px;
+}
+
+.flag[country='flag_353'] {
+    /*Qatar*/
+    background-position: -336px -266px;
+}
+
+.flag[country='flag_111'] {
+    /*germany*/
+    background-position: -192px -120px;
+}
+
+.flag[country='flag_109'] {
+    /*spain*/
+    background-position: -192px -312px;
+}
+
+.flag[country='flag_110'] {
+    /*france*/
+    background-position: -96px -120px;
+}
+
+.flag[country='flag_180'] {
+    /*france*/
+    background-position: -96px -120px;
+}
+
+.flag[country='flag_263'] {
+    /*brazil*/
+    background-position: -72px -48px;
+}
+
+.flag[country='flag_108'] {
+    /*greece*/
+    background-position: -288px -120px;
+}
+
+.flag[country='flag_784'] {
+    /*hong kong*/
+    background-position: -192px -143px;
+}
+
+.flag[country='flag_844'] {
+    /*Puerto Rica*/
+    background-position: -311px -266px;
+}
+
+.flag[country='flag_814'] {
+    /*usa*/
+    background-position: -72px -360px;
+}
+
+.flag[country='flag_373'] {
+    /*brazil*/
+    background-position: -72px -48px;
+}
+
+.flag[country='flag_123'] {
+    /*germany*/
+    background-position: -192px -120px;
+}
+
+.flag[country='flag_810'] {
+    /*kazakhstan*/
+    background-position: -192px -168px;
+}
+
+.flag[country='flag_38'] {
+    /*norway*/
+    background-position: -336px -240px;
+}
+.flag[country='flag_115'] {
+    /*poland*/
+    background-position: -264px -264px;
+}
+.flag[country='flag_331'] {
+    /*kuwait*/
+    background-position: -336px -171px;
+}
+
+.flag[country='flag_428'] {
+    /*lebanon*/
+    background-position: -47px -194px;
+}
+
+.flag[country='flag_387'] {
+    /*San Marino*/
+    background-position: -168px -288px;
+}
+.flag[country='flag_540'] {
+    /*Palestine*/
+    background-position: -120px -263px;
+}
+
+.flag[country='flag_188'] {
+    /*israel*/
+    background-position: -72px -168px;
+}
+.flag[country='flag_65'] {
+    /*austria*/
+    background-position: -72px -24px;
+}
+.flag[country='flag_546'] {
+    /*iceland*/
+    background-position: -240px -144px;
+}
+
+.flag[country='flag_339'] {
+    /*hong kong*/
+    background-position: -192px -143px;
+}
+
+.flag[country='flag_190'] {
+    /*croatia*/
+    background-position: -336px -72px;
+}
+
+.flag[country='flag_154'] {
+    /*czech republic*/
+    background-position: -23px -97px;
+}
+.flag[country='flag_168'] {
+    /*lithuania*/
+    background-position: -168px -192px;
+}
+
+.flag[country='flag_76'] {
+    /*davis cup*/
+    background-position: -123px -407px
+}
+.flag[country='flag_285'] {
+    /*hungary*/
+    background-position: -216px -144px;
+}
+.flag[country='flag_242'] {
+    /*france*/
+    background-position: -96px -120px;
+}
+
+.flag[country='flag_244'] {
+    /*denmark*/
+    background-position: -48px -96px;
+}
+
+.flag[country='flag_112'] {
+    /*turkey*/
+    background-position: -312px -336px;
+}
+.flag[country='flag_106'] {
+    /*norway*/
+    background-position: -336px -240px;
+}
+.flag[country='flag_328'] {
+    /*netherlands*/
+    background-position: -96px -240px;
+}
+.flag[country='flag_189'] {
+    /*belgium*/
+    background-position: -240px -24px;
+}
+
+.flag[country='flag_114'] {
+    /*sweden*/
+    background-position: -360px -312px;
+}
+
+.flag[country='flag_267'] {
+    /*ukraine*/
+    background-position: -120px -360px;
+}
+
+.flag[country='flag_287'] {
+    /*Portugal*/
+    background-position: -288px -264px;
+}
+
+.flag[country='flag_149'] {
+    /*finland*/
+    background-position: -72px -120px;
+}
+
+.flag[country='flag_548'] {
+    /*china*/
+    background-position: -96px -72px;
+}
+
+.flag[country='flag_176'] {
+    /*canada*/
+    background-position: -312px -48px;
+}
+
+.flag[country='flag_126'] {
+    /*italy*/
+    background-position: -96px -168px;
+}
+.flag[country='flag_135'] {
+    /*finland*/
+    background-position: -72px -120px;
+}
+
+.flag[country='flag_177'] {
+    /*sweden*/
+    background-position: -360px -312px;
+}
+.flag[country='flag_179'] {
+    /*greece*/
+    background-position: -288px -120px;
+}
+
+.flag[country='flag_256'] {
+    /*belgium*/
+    background-position: -240px -24px;
+}
+
+.flag[country='flag_313'] {
+    /*poland*/
+    background-position: -264px -264px;
+}
+.flag[country='flag_398'] {
+    /*romania*/
+    background-position: -48px -288px;
+}
+.flag[country='flag_457'] {
+    /*slovakia*/
+    background-position: 0 -312px;
+}

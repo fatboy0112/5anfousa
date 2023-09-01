@@ -1,0 +1,1979 @@
+{
+  "sr:correct_score:bestof:12": {
+      "id": "sr:correct_score:bestof:12",
+      "outcomes": {
+          "sr:correct_score:bestof:12:192": "7:0",
+          "sr:correct_score:bestof:12:193": "7:1",
+          "sr:correct_score:bestof:12:194": "7:2",
+          "sr:correct_score:bestof:12:195": "7:3",
+          "sr:correct_score:bestof:12:196": "7:4",
+          "sr:correct_score:bestof:12:197": "7:5",
+          "sr:correct_score:bestof:12:198": "6:6",
+          "sr:correct_score:bestof:12:199": "5:7",
+          "sr:correct_score:bestof:12:200": "4:7",
+          "sr:correct_score:bestof:12:201": "3:7",
+          "sr:correct_score:bestof:12:202": "2:7",
+          "sr:correct_score:bestof:12:203": "1:7",
+          "sr:correct_score:bestof:12:204": "0:7"
+      }
+  },
+  "sr:decided_by_extra_points:bestof:5": {
+      "id": "sr:decided_by_extra_points:bestof:5",
+      "outcomes": {
+          "sr:decided_by_extra_points:bestof:5:53": "0",
+          "sr:decided_by_extra_points:bestof:5:54": "1",
+          "sr:decided_by_extra_points:bestof:5:55": "2",
+          "sr:decided_by_extra_points:bestof:5:56": "3",
+          "sr:decided_by_extra_points:bestof:5:57": "4",
+          "sr:decided_by_extra_points:bestof:5:58": "5"
+      }
+  },
+  "sr:correct_score:max:6": {
+      "id": "sr:correct_score:max:6",
+      "outcomes": {
+          "sr:correct_score:max:6:1302": "0:0",
+          "sr:correct_score:max:6:1304": "0:1",
+          "sr:correct_score:max:6:1305": "0:2",
+          "sr:correct_score:max:6:1306": "0:3",
+          "sr:correct_score:max:6:1307": "0:4",
+          "sr:correct_score:max:6:1308": "0:5",
+          "sr:correct_score:max:6:1309": "0:6",
+          "sr:correct_score:max:6:1310": "1:0",
+          "sr:correct_score:max:6:1311": "1:1",
+          "sr:correct_score:max:6:1312": "1:2",
+          "sr:correct_score:max:6:1313": "1:3",
+          "sr:correct_score:max:6:1314": "1:4",
+          "sr:correct_score:max:6:1315": "1:5",
+          "sr:correct_score:max:6:1316": "2:0",
+          "sr:correct_score:max:6:1317": "2:1",
+          "sr:correct_score:max:6:1318": "2:2",
+          "sr:correct_score:max:6:1319": "2:3",
+          "sr:correct_score:max:6:1320": "2:4",
+          "sr:correct_score:max:6:1321": "3:0",
+          "sr:correct_score:max:6:1322": "3:1",
+          "sr:correct_score:max:6:1323": "3:2",
+          "sr:correct_score:max:6:1324": "3:3",
+          "sr:correct_score:max:6:1325": "4:0",
+          "sr:correct_score:max:6:1326": "4:1",
+          "sr:correct_score:max:6:1327": "4:2",
+          "sr:correct_score:max:6:1328": "5:0",
+          "sr:correct_score:max:6:1329": "5:1",
+          "sr:correct_score:max:6:1330": "6:0",
+          "sr:correct_score:max:6:1331": "other"
+      }
+  },
+  "sr:correct_score:bestof:10": {
+      "id": "sr:correct_score:bestof:10",
+      "outcomes": {
+          "sr:correct_score:bestof:10:330": "6:0",
+          "sr:correct_score:bestof:10:331": "6:1",
+          "sr:correct_score:bestof:10:332": "6:2",
+          "sr:correct_score:bestof:10:333": "6:3",
+          "sr:correct_score:bestof:10:334": "6:4",
+          "sr:correct_score:bestof:10:335": "5:5",
+          "sr:correct_score:bestof:10:336": "4:6",
+          "sr:correct_score:bestof:10:337": "3:6",
+          "sr:correct_score:bestof:10:338": "2:6",
+          "sr:correct_score:bestof:10:339": "1:6",
+          "sr:correct_score:bestof:10:340": "0:6"
+      }
+  },
+  "sr:point_range:55+": {
+      "id": "sr:point_range:55+",
+      "outcomes": {
+          "sr:point_range:55+:1236": "0-35",
+          "sr:point_range:55+:1237": "36-40",
+          "sr:point_range:55+:1238": "41-43",
+          "sr:point_range:55+:1239": "44-46",
+          "sr:point_range:55+:1240": "47-50",
+          "sr:point_range:55+:1241": "51-54",
+          "sr:point_range:55+:1242": "55+"
+      }
+  },
+  "sr:correct_score:bestof:17": {
+      "id": "sr:correct_score:bestof:17",
+      "outcomes": {
+          "sr:correct_score:bestof:17:249": "9:0",
+          "sr:correct_score:bestof:17:250": "9:1",
+          "sr:correct_score:bestof:17:251": "9:2",
+          "sr:correct_score:bestof:17:252": "9:3",
+          "sr:correct_score:bestof:17:253": "9:4",
+          "sr:correct_score:bestof:17:254": "9:5",
+          "sr:correct_score:bestof:17:255": "9:6",
+          "sr:correct_score:bestof:17:256": "9:7",
+          "sr:correct_score:bestof:17:257": "9:8",
+          "sr:correct_score:bestof:17:258": "8:9",
+          "sr:correct_score:bestof:17:259": "7:9",
+          "sr:correct_score:bestof:17:260": "6:9",
+          "sr:correct_score:bestof:17:261": "5:9",
+          "sr:correct_score:bestof:17:262": "4:9",
+          "sr:correct_score:bestof:17:263": "3:9",
+          "sr:correct_score:bestof:17:264": "2:9",
+          "sr:correct_score:bestof:17:265": "1:9",
+          "sr:correct_score:bestof:17:266": "0:9"
+      }
+  },
+  "sr:point_range:63+": {
+      "id": "sr:point_range:63+",
+      "outcomes": {
+          "sr:point_range:63+:150": "0-27",
+          "sr:point_range:63+:151": "28-34",
+          "sr:point_range:63+:152": "35-41",
+          "sr:point_range:63+:153": "42-48",
+          "sr:point_range:63+:154": "49-55",
+          "sr:point_range:63+:155": "56-62",
+          "sr:point_range:63+:156": "63+"
+      }
+  },
+  "sr:correct_score:bestof:25": {
+      "id": "sr:correct_score:bestof:25",
+      "outcomes": {
+          "sr:correct_score:bestof:25:485": "13:0",
+          "sr:correct_score:bestof:25:486": "13:1",
+          "sr:correct_score:bestof:25:487": "13:2",
+          "sr:correct_score:bestof:25:488": "13:3",
+          "sr:correct_score:bestof:25:489": "13:4",
+          "sr:correct_score:bestof:25:490": "13:5",
+          "sr:correct_score:bestof:25:491": "13:6",
+          "sr:correct_score:bestof:25:492": "13:7",
+          "sr:correct_score:bestof:25:493": "13:8",
+          "sr:correct_score:bestof:25:494": "13:9",
+          "sr:correct_score:bestof:25:495": "13:10",
+          "sr:correct_score:bestof:25:496": "13:11",
+          "sr:correct_score:bestof:25:497": "13:12",
+          "sr:correct_score:bestof:25:498": "12:13",
+          "sr:correct_score:bestof:25:499": "11:13",
+          "sr:correct_score:bestof:25:500": "10:13",
+          "sr:correct_score:bestof:25:501": "9:13",
+          "sr:correct_score:bestof:25:502": "8:13",
+          "sr:correct_score:bestof:25:503": "7:13",
+          "sr:correct_score:bestof:25:504": "6:13",
+          "sr:correct_score:bestof:25:505": "5:13",
+          "sr:correct_score:bestof:25:506": "4:13",
+          "sr:correct_score:bestof:25:507": "3:13",
+          "sr:correct_score:bestof:25:508": "2:13",
+          "sr:correct_score:bestof:25:509": "1:13",
+          "sr:correct_score:bestof:25:510": "0:13"
+      }
+  },
+  "sr:correct_score:bestof:9": {
+      "id": "sr:correct_score:bestof:9",
+      "outcomes": {
+          "sr:correct_score:bestof:9:22": "5:0",
+          "sr:correct_score:bestof:9:23": "5:1",
+          "sr:correct_score:bestof:9:24": "5:2",
+          "sr:correct_score:bestof:9:25": "5:3",
+          "sr:correct_score:bestof:9:26": "5:4",
+          "sr:correct_score:bestof:9:27": "4:5",
+          "sr:correct_score:bestof:9:28": "3:5",
+          "sr:correct_score:bestof:9:29": "2:5",
+          "sr:correct_score:bestof:9:30": "1:5",
+          "sr:correct_score:bestof:9:31": "0:5"
+      }
+  },
+  "sr:winning_margin:6+": {
+      "id": "sr:winning_margin:6+",
+      "outcomes": {
+          "sr:winning_margin:6+:120": "{$competitor1} by 6+",
+          "sr:winning_margin:6+:121": "{$competitor2} by 6+",
+          "sr:winning_margin:6+:122": "other"
+      }
+  },
+  "sr:exact_goals:10+": {
+      "id": "sr:exact_goals:10+",
+      "outcomes": {
+          "sr:exact_goals:10+:97": "0-4",
+          "sr:exact_goals:10+:98": "5",
+          "sr:exact_goals:10+:99": "6",
+          "sr:exact_goals:10+:100": "7",
+          "sr:exact_goals:10+:101": "8",
+          "sr:exact_goals:10+:102": "9",
+          "sr:exact_goals:10+:103": "10+"
+      }
+  },
+  "sr:point_range:46+": {
+      "id": "sr:point_range:46+",
+      "outcomes": {
+          "sr:point_range:46+:1086": "0-20",
+          "sr:point_range:46+:1087": "21-25",
+          "sr:point_range:46+:1088": "26-30",
+          "sr:point_range:46+:1089": "31-35",
+          "sr:point_range:46+:1090": "36-40",
+          "sr:point_range:46+:1091": "41-45",
+          "sr:point_range:46+:1092": "46+"
+      }
+  },
+  "sr:decided_by_extra_points:bestof:7": {
+      "id": "sr:decided_by_extra_points:bestof:7",
+      "outcomes": {
+          "sr:decided_by_extra_points:bestof:7:59": "0",
+          "sr:decided_by_extra_points:bestof:7:61": "1",
+          "sr:decided_by_extra_points:bestof:7:62": "2",
+          "sr:decided_by_extra_points:bestof:7:63": "3",
+          "sr:decided_by_extra_points:bestof:7:64": "4",
+          "sr:decided_by_extra_points:bestof:7:65": "5",
+          "sr:decided_by_extra_points:bestof:7:66": "6",
+          "sr:decided_by_extra_points:bestof:7:67": "7"
+      }
+  },
+  "sr:point_range:190+": {
+      "id": "sr:point_range:190+",
+      "outcomes": {
+          "sr:point_range:190+:1070": "0-99",
+          "sr:point_range:190+:1071": "100-119",
+          "sr:point_range:190+:1072": "120-129",
+          "sr:point_range:190+:1073": "130-139",
+          "sr:point_range:190+:1074": "140-149",
+          "sr:point_range:190+:1075": "150-159",
+          "sr:point_range:190+:1076": "160-169",
+          "sr:point_range:190+:1077": "170-189",
+          "sr:point_range:190+:1078": "190+"
+      }
+  },
+  "sr:correct_score:bestof:26": {
+      "id": "sr:correct_score:bestof:26",
+      "outcomes": {
+          "sr:correct_score:bestof:26:511": "14:0",
+          "sr:correct_score:bestof:26:512": "14:1",
+          "sr:correct_score:bestof:26:513": "14:2",
+          "sr:correct_score:bestof:26:514": "14:3",
+          "sr:correct_score:bestof:26:515": "14:4",
+          "sr:correct_score:bestof:26:516": "14:5",
+          "sr:correct_score:bestof:26:517": "14:6",
+          "sr:correct_score:bestof:26:518": "14:7",
+          "sr:correct_score:bestof:26:519": "14:8",
+          "sr:correct_score:bestof:26:520": "14:9",
+          "sr:correct_score:bestof:26:521": "14:10",
+          "sr:correct_score:bestof:26:522": "14:11",
+          "sr:correct_score:bestof:26:523": "14:12",
+          "sr:correct_score:bestof:26:524": "13:13",
+          "sr:correct_score:bestof:26:525": "12:14",
+          "sr:correct_score:bestof:26:526": "11:14",
+          "sr:correct_score:bestof:26:527": "10:14",
+          "sr:correct_score:bestof:26:528": "9:14",
+          "sr:correct_score:bestof:26:529": "8:14",
+          "sr:correct_score:bestof:26:530": "7:14",
+          "sr:correct_score:bestof:26:531": "6:14",
+          "sr:correct_score:bestof:26:532": "5:14",
+          "sr:correct_score:bestof:26:533": "4:14",
+          "sr:correct_score:bestof:26:534": "3:14",
+          "sr:correct_score:bestof:26:535": "2:14",
+          "sr:correct_score:bestof:26:536": "1:14",
+          "sr:correct_score:bestof:26:537": "0:14"
+      }
+  },
+  "sr:exact_goals:9+_2": {
+      "id": "sr:exact_goals:9+_2",
+      "outcomes": {
+          "sr:exact_goals:9+_2:104": "0-1",
+          "sr:exact_goals:9+_2:105": "2",
+          "sr:exact_goals:9+_2:106": "3",
+          "sr:exact_goals:9+_2:107": "4",
+          "sr:exact_goals:9+_2:108": "5",
+          "sr:exact_goals:9+_2:109": "6",
+          "sr:exact_goals:9+_2:110": "7",
+          "sr:exact_goals:9+_2:111": "8",
+          "sr:exact_goals:9+_2:112": "9+"
+      }
+  },
+  "sr:point_range:62+": {
+      "id": "sr:point_range:62+",
+      "outcomes": {
+          "sr:point_range:62+:1125": "0-46",
+          "sr:point_range:62+:1126": "47-49",
+          "sr:point_range:62+:1127": "50-52",
+          "sr:point_range:62+:1128": "53-55",
+          "sr:point_range:62+:1129": "56-58",
+          "sr:point_range:62+:1130": "59-61",
+          "sr:point_range:62+:1131": "62+"
+      }
+  },
+  "sr:correct_score:bowls_bestof:3": {
+      "id": "sr:correct_score:bowls_bestof:3",
+      "outcomes": {
+          "sr:correct_score:bowls_bestof:3:1194": "2:0",
+          "sr:correct_score:bowls_bestof:3:1195": "2:1",
+          "sr:correct_score:bowls_bestof:3:1196": "0:2",
+          "sr:correct_score:bowls_bestof:3:1197": "1:2",
+          "sr:correct_score:bowls_bestof:3:1198": "1.5:0.5",
+          "sr:correct_score:bowls_bestof:3:1199": "0.5:1.5"
+      }
+  },
+  "sr:correct_score:bestof:32": {
+      "id": "sr:correct_score:bestof:32",
+      "outcomes": {
+          "sr:correct_score:bestof:32:688": "17:0",
+          "sr:correct_score:bestof:32:689": "17:1",
+          "sr:correct_score:bestof:32:690": "17:2",
+          "sr:correct_score:bestof:32:691": "17:3",
+          "sr:correct_score:bestof:32:692": "17:4",
+          "sr:correct_score:bestof:32:693": "17:5",
+          "sr:correct_score:bestof:32:694": "17:6",
+          "sr:correct_score:bestof:32:695": "17:7",
+          "sr:correct_score:bestof:32:696": "17:8",
+          "sr:correct_score:bestof:32:697": "17:9",
+          "sr:correct_score:bestof:32:698": "17:10",
+          "sr:correct_score:bestof:32:699": "17:11",
+          "sr:correct_score:bestof:32:700": "17:12",
+          "sr:correct_score:bestof:32:701": "17:13",
+          "sr:correct_score:bestof:32:702": "17:14",
+          "sr:correct_score:bestof:32:703": "17:15",
+          "sr:correct_score:bestof:32:704": "16:16",
+          "sr:correct_score:bestof:32:705": "15:17",
+          "sr:correct_score:bestof:32:706": "14:17",
+          "sr:correct_score:bestof:32:707": "13:17",
+          "sr:correct_score:bestof:32:708": "12:17",
+          "sr:correct_score:bestof:32:709": "11:17",
+          "sr:correct_score:bestof:32:710": "10:17",
+          "sr:correct_score:bestof:32:711": "9:17",
+          "sr:correct_score:bestof:32:712": "8:17",
+          "sr:correct_score:bestof:32:713": "7:17",
+          "sr:correct_score:bestof:32:714": "6:17",
+          "sr:correct_score:bestof:32:715": "5:17",
+          "sr:correct_score:bestof:32:716": "4:17",
+          "sr:correct_score:bestof:32:717": "3:17",
+          "sr:correct_score:bestof:32:718": "2:17",
+          "sr:correct_score:bestof:32:719": "1:17",
+          "sr:correct_score:bestof:32:720": "0:17"
+      }
+  },
+  "sr:winning_margin_no_draw_any_team:31+": {
+      "id": "sr:winning_margin_no_draw_any_team:31+",
+      "outcomes": {
+          "sr:winning_margin_no_draw_any_team:31+:1295": "1-5",
+          "sr:winning_margin_no_draw_any_team:31+:1296": "6-10",
+          "sr:winning_margin_no_draw_any_team:31+:1297": "11-15",
+          "sr:winning_margin_no_draw_any_team:31+:1298": "16-20",
+          "sr:winning_margin_no_draw_any_team:31+:1299": "21-25",
+          "sr:winning_margin_no_draw_any_team:31+:1300": "26-30",
+          "sr:winning_margin_no_draw_any_team:31+:1301": "31+"
+      }
+  },
+  "sr:winning_margin:formula1": {
+      "id": "sr:winning_margin:formula1",
+      "outcomes": {
+          "sr:winning_margin:formula1:1511": "0 - 2.999 sec",
+          "sr:winning_margin:formula1:1512": "3.000 - 5.999 sec",
+          "sr:winning_margin:formula1:1513": "6.000 - 9.999 sec",
+          "sr:winning_margin:formula1:1514": "10.000 - 14.999 sec",
+          "sr:winning_margin:formula1:1515": "15.000 - 19.999 sec",
+          "sr:winning_margin:formula1:1516": "20.000+ sec"
+      }
+  },
+  "sr:correct_score:bestof:14": {
+      "id": "sr:correct_score:bestof:14",
+      "outcomes": {
+          "sr:correct_score:bestof:14:341": "8:0",
+          "sr:correct_score:bestof:14:342": "8:1",
+          "sr:correct_score:bestof:14:343": "8:2",
+          "sr:correct_score:bestof:14:344": "8:3",
+          "sr:correct_score:bestof:14:345": "8:4",
+          "sr:correct_score:bestof:14:346": "8:5",
+          "sr:correct_score:bestof:14:347": "8:6",
+          "sr:correct_score:bestof:14:348": "7:7",
+          "sr:correct_score:bestof:14:349": "6:8",
+          "sr:correct_score:bestof:14:350": "5:8",
+          "sr:correct_score:bestof:14:351": "4:8",
+          "sr:correct_score:bestof:14:352": "3:8",
+          "sr:correct_score:bestof:14:353": "2:8",
+          "sr:correct_score:bestof:14:354": "1:8",
+          "sr:correct_score:bestof:14:355": "0:8"
+      }
+  },
+  "sr:correct_score:bestof:39": {
+      "id": "sr:correct_score:bestof:39",
+      "outcomes": {
+          "sr:correct_score:bestof:39:940": "20:0",
+          "sr:correct_score:bestof:39:941": "20:1",
+          "sr:correct_score:bestof:39:942": "20:2",
+          "sr:correct_score:bestof:39:943": "20:3",
+          "sr:correct_score:bestof:39:944": "20:4",
+          "sr:correct_score:bestof:39:945": "20:5",
+          "sr:correct_score:bestof:39:946": "20:6",
+          "sr:correct_score:bestof:39:947": "20:7",
+          "sr:correct_score:bestof:39:948": "20:8",
+          "sr:correct_score:bestof:39:949": "20:9",
+          "sr:correct_score:bestof:39:950": "20:10",
+          "sr:correct_score:bestof:39:951": "20:11",
+          "sr:correct_score:bestof:39:952": "20:12",
+          "sr:correct_score:bestof:39:953": "20:13",
+          "sr:correct_score:bestof:39:954": "20:14",
+          "sr:correct_score:bestof:39:955": "20:15",
+          "sr:correct_score:bestof:39:956": "20:16",
+          "sr:correct_score:bestof:39:957": "20:17",
+          "sr:correct_score:bestof:39:958": "20:18",
+          "sr:correct_score:bestof:39:959": "20:19",
+          "sr:correct_score:bestof:39:960": "19:20",
+          "sr:correct_score:bestof:39:961": "18:20",
+          "sr:correct_score:bestof:39:962": "17:20",
+          "sr:correct_score:bestof:39:963": "16:20",
+          "sr:correct_score:bestof:39:964": "15:20",
+          "sr:correct_score:bestof:39:965": "14:20",
+          "sr:correct_score:bestof:39:966": "13:20",
+          "sr:correct_score:bestof:39:967": "12:20",
+          "sr:correct_score:bestof:39:968": "11:20",
+          "sr:correct_score:bestof:39:969": "10:20",
+          "sr:correct_score:bestof:39:970": "9:20",
+          "sr:correct_score:bestof:39:971": "8:20",
+          "sr:correct_score:bestof:39:972": "7:20",
+          "sr:correct_score:bestof:39:973": "6:20",
+          "sr:correct_score:bestof:39:974": "5:20",
+          "sr:correct_score:bestof:39:975": "4:20",
+          "sr:correct_score:bestof:39:976": "3:20",
+          "sr:correct_score:bestof:39:977": "2:20",
+          "sr:correct_score:bestof:39:978": "1:20",
+          "sr:correct_score:bestof:39:979": "0:20"
+      }
+  },
+  "sr:exact_sets:bestof:3": {
+      "id": "sr:exact_sets:bestof:3",
+      "outcomes": {
+          "sr:exact_sets:bestof:3:32": "2",
+          "sr:exact_sets:bestof:3:33": "3"
+      }
+  },
+  "sr:winner_and_rounds:3": {
+      "id": "sr:winner_and_rounds:3",
+      "outcomes": {
+          "sr:winner_and_rounds:3:1353": "{$competitor1} & 1",
+          "sr:winner_and_rounds:3:1354": "{$competitor1} & 2",
+          "sr:winner_and_rounds:3:1355": "{$competitor1} & 3",
+          "sr:winner_and_rounds:3:1356": "{$competitor1} & decision",
+          "sr:winner_and_rounds:3:1357": "draw",
+          "sr:winner_and_rounds:3:1358": "{$competitor2} & 1",
+          "sr:winner_and_rounds:3:1359": "{$competitor2} & 2",
+          "sr:winner_and_rounds:3:1360": "{$competitor2} & 3",
+          "sr:winner_and_rounds:3:1361": "{$competitor2} & decision"
+      }
+  },
+  "sr:point_range:180.5+": {
+      "id": "sr:point_range:180.5+",
+      "outcomes": {
+          "sr:point_range:180.5+:157": "0-100",
+          "sr:point_range:180.5+:158": "101-110",
+          "sr:point_range:180.5+:159": "111-120",
+          "sr:point_range:180.5+:160": "121-130",
+          "sr:point_range:180.5+:161": "131-140",
+          "sr:point_range:180.5+:162": "141-150",
+          "sr:point_range:180.5+:163": "151-160",
+          "sr:point_range:180.5+:164": "161-170",
+          "sr:point_range:180.5+:165": "171-180",
+          "sr:point_range:180.5+:166": "180.5+"
+      }
+  },
+  "sr:correct_score:below:5-5": {
+      "id": "sr:correct_score:below:5-5",
+      "outcomes": {
+          "sr:correct_score:below:5-5:1475": "0:0",
+          "sr:correct_score:below:5-5:1476": "1:0",
+          "sr:correct_score:below:5-5:1477": "2:0",
+          "sr:correct_score:below:5-5:1478": "3:0",
+          "sr:correct_score:below:5-5:1479": "4:0",
+          "sr:correct_score:below:5-5:1480": "5:0",
+          "sr:correct_score:below:5-5:1481": "0:1",
+          "sr:correct_score:below:5-5:1482": "1:1",
+          "sr:correct_score:below:5-5:1483": "2:1",
+          "sr:correct_score:below:5-5:1484": "3:1",
+          "sr:correct_score:below:5-5:1485": "4:1",
+          "sr:correct_score:below:5-5:1486": "5:1",
+          "sr:correct_score:below:5-5:1487": "0:2",
+          "sr:correct_score:below:5-5:1488": "1:2",
+          "sr:correct_score:below:5-5:1489": "2:2",
+          "sr:correct_score:below:5-5:1490": "3:2",
+          "sr:correct_score:below:5-5:1491": "4:2",
+          "sr:correct_score:below:5-5:1492": "5:2",
+          "sr:correct_score:below:5-5:1493": "0:3",
+          "sr:correct_score:below:5-5:1494": "1:3",
+          "sr:correct_score:below:5-5:1495": "2:3",
+          "sr:correct_score:below:5-5:1496": "3:3",
+          "sr:correct_score:below:5-5:1497": "4:3",
+          "sr:correct_score:below:5-5:1498": "5:3",
+          "sr:correct_score:below:5-5:1499": "0:4",
+          "sr:correct_score:below:5-5:1500": "1:4",
+          "sr:correct_score:below:5-5:1501": "2:4",
+          "sr:correct_score:below:5-5:1502": "3:4",
+          "sr:correct_score:below:5-5:1503": "4:4",
+          "sr:correct_score:below:5-5:1504": "5:4",
+          "sr:correct_score:below:5-5:1505": "0:5",
+          "sr:correct_score:below:5-5:1506": "1:5",
+          "sr:correct_score:below:5-5:1507": "2:5",
+          "sr:correct_score:below:5-5:1508": "3:5",
+          "sr:correct_score:below:5-5:1509": "4:5",
+          "sr:correct_score:below:5-5:1510": "other"
+      }
+  },
+  "sr:correct_score:bestof:15": {
+      "id": "sr:correct_score:bestof:15",
+      "outcomes": {
+          "sr:correct_score:bestof:15:233": "8:0",
+          "sr:correct_score:bestof:15:234": "8:1",
+          "sr:correct_score:bestof:15:235": "8:2",
+          "sr:correct_score:bestof:15:236": "8:3",
+          "sr:correct_score:bestof:15:237": "8:4",
+          "sr:correct_score:bestof:15:238": "8:5",
+          "sr:correct_score:bestof:15:239": "8:6",
+          "sr:correct_score:bestof:15:240": "8:7",
+          "sr:correct_score:bestof:15:241": "7:8",
+          "sr:correct_score:bestof:15:242": "6:8",
+          "sr:correct_score:bestof:15:243": "5:8",
+          "sr:correct_score:bestof:15:244": "4:8",
+          "sr:correct_score:bestof:15:245": "3:8",
+          "sr:correct_score:bestof:15:246": "2:8",
+          "sr:correct_score:bestof:15:247": "1:8",
+          "sr:correct_score:bestof:15:248": "0:8"
+      }
+  },
+  "sr:point_range:31+": {
+      "id": "sr:point_range:31+",
+      "outcomes": {
+          "sr:point_range:31+:1079": "0-10",
+          "sr:point_range:31+:1080": "11-14",
+          "sr:point_range:31+:1081": "15-18",
+          "sr:point_range:31+:1082": "19-22",
+          "sr:point_range:31+:1083": "23-26",
+          "sr:point_range:31+:1084": "27-30",
+          "sr:point_range:31+:1085": "31+"
+      }
+  },
+  "sr:winning_method:ko_submission_decision": {
+      "id": "sr:winning_method:ko_submission_decision",
+      "outcomes": {
+          "sr:winning_method:ko_submission_decision:1346": "{$competitor1} by ko",
+          "sr:winning_method:ko_submission_decision:1347": "{$competitor1} by submission",
+          "sr:winning_method:ko_submission_decision:1348": "{$competitor1} by decision",
+          "sr:winning_method:ko_submission_decision:1349": "draw",
+          "sr:winning_method:ko_submission_decision:1350": "{$competitor2} by ko",
+          "sr:winning_method:ko_submission_decision:1351": "{$competitor2} by submission",
+          "sr:winning_method:ko_submission_decision:1352": "{$competitor2} by decision"
+      }
+  },
+  "sr:point_range:6+": {
+      "id": "sr:point_range:6+",
+      "outcomes": {
+          "sr:point_range:6+:1121": "0-1",
+          "sr:point_range:6+:1122": "2-3",
+          "sr:point_range:6+:1123": "4-5",
+          "sr:point_range:6+:1124": "6+"
+      }
+  },
+  "sr:goalscorer:fieldplayers_nogoal_owngoal_other": {
+      "id": "sr:goalscorer:fieldplayers_nogoal_owngoal_other",
+      "outcomes": {
+          "sr:goalscorer:fieldplayers_nogoal_owngoal_other:1333": "no goal",
+          "sr:goalscorer:fieldplayers_nogoal_owngoal_other:1334": "own goal",
+          "sr:goalscorer:fieldplayers_nogoal_owngoal_other:1335": "other"
+      }
+  },
+  "sr:point_range:14+": {
+      "id": "sr:point_range:14+",
+      "outcomes": {
+          "sr:point_range:14+:1151": "0-4",
+          "sr:point_range:14+:1152": "5-6",
+          "sr:point_range:14+:1153": "7-8",
+          "sr:point_range:14+:1154": "9-10",
+          "sr:point_range:14+:1155": "11-13",
+          "sr:point_range:14+:1156": "14+"
+      }
+  },
+  "sr:point_range:19+": {
+      "id": "sr:point_range:19+",
+      "outcomes": {
+          "sr:point_range:19+:1114": "0-8",
+          "sr:point_range:19+:1115": "9-10",
+          "sr:point_range:19+:1116": "11-12",
+          "sr:point_range:19+:1117": "13-14",
+          "sr:point_range:19+:1118": "15-16",
+          "sr:point_range:19+:1119": "17-18",
+          "sr:point_range:19+:1120": "19+"
+      }
+  },
+  "sr:exact_goals:4+": {
+      "id": "sr:exact_goals:4+",
+      "outcomes": {
+          "sr:exact_goals:4+:92": "0",
+          "sr:exact_goals:4+:93": "1",
+          "sr:exact_goals:4+:94": "2",
+          "sr:exact_goals:4+:95": "3",
+          "sr:exact_goals:4+:96": "4+"
+      }
+  },
+  "sr:point_range:42+": {
+      "id": "sr:point_range:42+",
+      "outcomes": {
+          "sr:point_range:42+:1093": "0-6",
+          "sr:point_range:42+:1094": "7-13",
+          "sr:point_range:42+:1095": "14-20",
+          "sr:point_range:42+:1096": "21-27",
+          "sr:point_range:42+:1097": "28-34",
+          "sr:point_range:42+:1098": "35-41",
+          "sr:point_range:42+:1099": "42+"
+      }
+  },
+  "sr:correct_score:bestof:38": {
+      "id": "sr:correct_score:bestof:38",
+      "outcomes": {
+          "sr:correct_score:bestof:38:901": "20:0",
+          "sr:correct_score:bestof:38:902": "20:1",
+          "sr:correct_score:bestof:38:903": "20:2",
+          "sr:correct_score:bestof:38:904": "20:3",
+          "sr:correct_score:bestof:38:905": "20:4",
+          "sr:correct_score:bestof:38:906": "20:5",
+          "sr:correct_score:bestof:38:907": "20:6",
+          "sr:correct_score:bestof:38:908": "20:7",
+          "sr:correct_score:bestof:38:909": "20:8",
+          "sr:correct_score:bestof:38:910": "20:9",
+          "sr:correct_score:bestof:38:911": "20:10",
+          "sr:correct_score:bestof:38:912": "20:11",
+          "sr:correct_score:bestof:38:913": "20:12",
+          "sr:correct_score:bestof:38:914": "20:13",
+          "sr:correct_score:bestof:38:915": "20:14",
+          "sr:correct_score:bestof:38:916": "20:15",
+          "sr:correct_score:bestof:38:917": "20:16",
+          "sr:correct_score:bestof:38:918": "20:17",
+          "sr:correct_score:bestof:38:919": "20:18",
+          "sr:correct_score:bestof:38:920": "19:19",
+          "sr:correct_score:bestof:38:921": "18:20",
+          "sr:correct_score:bestof:38:922": "17:20",
+          "sr:correct_score:bestof:38:923": "16:20",
+          "sr:correct_score:bestof:38:924": "15:20",
+          "sr:correct_score:bestof:38:925": "14:20",
+          "sr:correct_score:bestof:38:926": "13:20",
+          "sr:correct_score:bestof:38:927": "12:20",
+          "sr:correct_score:bestof:38:928": "11:20",
+          "sr:correct_score:bestof:38:929": "10:20",
+          "sr:correct_score:bestof:38:930": "9:20",
+          "sr:correct_score:bestof:38:931": "8:20",
+          "sr:correct_score:bestof:38:932": "7:20",
+          "sr:correct_score:bestof:38:933": "6:20",
+          "sr:correct_score:bestof:38:934": "5:20",
+          "sr:correct_score:bestof:38:935": "4:20",
+          "sr:correct_score:bestof:38:936": "3:20",
+          "sr:correct_score:bestof:38:937": "2:20",
+          "sr:correct_score:bestof:38:938": "1:20",
+          "sr:correct_score:bestof:38:939": "0:20"
+      }
+  },
+  "sr:correct_score:bestof:24": {
+      "id": "sr:correct_score:bestof:24",
+      "outcomes": {
+          "sr:correct_score:bestof:24:460": "13:0",
+          "sr:correct_score:bestof:24:461": "13:1",
+          "sr:correct_score:bestof:24:462": "13:2",
+          "sr:correct_score:bestof:24:463": "13:3",
+          "sr:correct_score:bestof:24:464": "13:4",
+          "sr:correct_score:bestof:24:465": "13:5",
+          "sr:correct_score:bestof:24:466": "13:6",
+          "sr:correct_score:bestof:24:467": "13:7",
+          "sr:correct_score:bestof:24:468": "13:8",
+          "sr:correct_score:bestof:24:469": "13:9",
+          "sr:correct_score:bestof:24:470": "13:10",
+          "sr:correct_score:bestof:24:471": "13:11",
+          "sr:correct_score:bestof:24:472": "12:12",
+          "sr:correct_score:bestof:24:473": "11:13",
+          "sr:correct_score:bestof:24:474": "10:13",
+          "sr:correct_score:bestof:24:475": "9:13",
+          "sr:correct_score:bestof:24:476": "8:13",
+          "sr:correct_score:bestof:24:477": "7:13",
+          "sr:correct_score:bestof:24:478": "6:13",
+          "sr:correct_score:bestof:24:479": "5:13",
+          "sr:correct_score:bestof:24:480": "4:13",
+          "sr:correct_score:bestof:24:481": "3:13",
+          "sr:correct_score:bestof:24:482": "2:13",
+          "sr:correct_score:bestof:24:483": "1:13",
+          "sr:correct_score:bestof:24:484": "0:13"
+      }
+  },
+  "sr:winning_margin:32+": {
+      "id": "sr:winning_margin:32+",
+      "outcomes": {
+          "sr:winning_margin:32+:1200": "{$competitor1} by 1-14",
+          "sr:winning_margin:32+:1201": "{$competitor1} by 15-31",
+          "sr:winning_margin:32+:1202": "{$competitor1} by 32+",
+          "sr:winning_margin:32+:1204": "{$competitor2} by 1-14",
+          "sr:winning_margin:32+:1205": "{$competitor2} by 15-31",
+          "sr:winning_margin:32+:1206": "{$competitor2} by 32+",
+          "sr:winning_margin:32+:1207": "draw"
+      }
+  },
+  "sr:exact_games:bestof:3": {
+      "id": "sr:exact_games:bestof:3",
+      "outcomes": {
+          "sr:exact_games:bestof:3:37": "2",
+          "sr:exact_games:bestof:3:38": "3"
+      }
+  },
+  "sr:exact_sets:bestof:5": {
+      "id": "sr:exact_sets:bestof:5",
+      "outcomes": {
+          "sr:exact_sets:bestof:5:34": "3",
+          "sr:exact_sets:bestof:5:35": "4",
+          "sr:exact_sets:bestof:5:36": "5"
+      }
+  },
+  "sr:correct_score:bestof:23": {
+      "id": "sr:correct_score:bestof:23",
+      "outcomes": {
+          "sr:correct_score:bestof:23:436": "12:0",
+          "sr:correct_score:bestof:23:437": "12:1",
+          "sr:correct_score:bestof:23:438": "12:2",
+          "sr:correct_score:bestof:23:439": "12:3",
+          "sr:correct_score:bestof:23:440": "12:4",
+          "sr:correct_score:bestof:23:441": "12:5",
+          "sr:correct_score:bestof:23:442": "12:6",
+          "sr:correct_score:bestof:23:443": "12:7",
+          "sr:correct_score:bestof:23:444": "12:8",
+          "sr:correct_score:bestof:23:445": "12:9",
+          "sr:correct_score:bestof:23:446": "12:10",
+          "sr:correct_score:bestof:23:447": "12:11",
+          "sr:correct_score:bestof:23:448": "11:12",
+          "sr:correct_score:bestof:23:449": "10:12",
+          "sr:correct_score:bestof:23:450": "9:12",
+          "sr:correct_score:bestof:23:451": "8:12",
+          "sr:correct_score:bestof:23:452": "7:12",
+          "sr:correct_score:bestof:23:453": "6:12",
+          "sr:correct_score:bestof:23:454": "5:12",
+          "sr:correct_score:bestof:23:455": "4:12",
+          "sr:correct_score:bestof:23:456": "3:12",
+          "sr:correct_score:bestof:23:457": "2:12",
+          "sr:correct_score:bestof:23:458": "1:12",
+          "sr:correct_score:bestof:23:459": "0:12"
+      }
+  },
+  "sr:point_range:95+": {
+      "id": "sr:point_range:95+",
+      "outcomes": {
+          "sr:point_range:95+:1243": "0-49",
+          "sr:point_range:95+:1244": "50-59",
+          "sr:point_range:95+:1245": "60-64",
+          "sr:point_range:95+:1246": "65-69",
+          "sr:point_range:95+:1247": "70-74",
+          "sr:point_range:95+:1248": "75-79",
+          "sr:point_range:95+:1249": "80-84",
+          "sr:point_range:95+:1250": "85-94",
+          "sr:point_range:95+:1251": "95+"
+      }
+  },
+  "sr:correct_score:bestof:16": {
+      "id": "sr:correct_score:bestof:16",
+      "outcomes": {
+          "sr:correct_score:bestof:16:356": "9:0",
+          "sr:correct_score:bestof:16:357": "9:1",
+          "sr:correct_score:bestof:16:358": "9:2",
+          "sr:correct_score:bestof:16:359": "9:3",
+          "sr:correct_score:bestof:16:360": "9:4",
+          "sr:correct_score:bestof:16:361": "9:5",
+          "sr:correct_score:bestof:16:362": "9:6",
+          "sr:correct_score:bestof:16:363": "9:7",
+          "sr:correct_score:bestof:16:364": "8:8",
+          "sr:correct_score:bestof:16:365": "7:9",
+          "sr:correct_score:bestof:16:366": "6:9",
+          "sr:correct_score:bestof:16:367": "5:9",
+          "sr:correct_score:bestof:16:368": "4:9",
+          "sr:correct_score:bestof:16:369": "3:9",
+          "sr:correct_score:bestof:16:370": "2:9",
+          "sr:correct_score:bestof:16:371": "1:9",
+          "sr:correct_score:bestof:16:372": "0:9"
+      }
+  },
+  "sr:winning_margin_no_draw:11+": {
+      "id": "sr:winning_margin_no_draw:11+",
+      "outcomes": {
+          "sr:winning_margin_no_draw:11+:137": "{$competitor1} by 11+",
+          "sr:winning_margin_no_draw:11+:138": "{$competitor1} by 6-10",
+          "sr:winning_margin_no_draw:11+:139": "{$competitor1} by 1-5",
+          "sr:winning_margin_no_draw:11+:140": "{$competitor2} by 1-5",
+          "sr:winning_margin_no_draw:11+:141": "{$competitor2} by 6-10",
+          "sr:winning_margin_no_draw:11+:142": "{$competitor2} by 11+"
+      }
+  },
+  "sr:winning_margin:14+": {
+      "id": "sr:winning_margin:14+",
+      "outcomes": {
+          "sr:winning_margin:14+:143": "{$competitor1} by 14+",
+          "sr:winning_margin:14+:144": "{$competitor1} by 7-13",
+          "sr:winning_margin:14+:145": "{$competitor1} by 1-6",
+          "sr:winning_margin:14+:146": "draw",
+          "sr:winning_margin:14+:147": "{$competitor2} by 1-6",
+          "sr:winning_margin:14+:148": "{$competitor2} by 7-13",
+          "sr:winning_margin:14+:149": "{$competitor2} by 14+"
+      }
+  },
+  "sr:correct_score:bestof:33": {
+      "id": "sr:correct_score:bestof:33",
+      "outcomes": {
+          "sr:correct_score:bestof:33:721": "17:0",
+          "sr:correct_score:bestof:33:722": "17:1",
+          "sr:correct_score:bestof:33:723": "17:2",
+          "sr:correct_score:bestof:33:724": "17:3",
+          "sr:correct_score:bestof:33:725": "17:4",
+          "sr:correct_score:bestof:33:726": "17:5",
+          "sr:correct_score:bestof:33:727": "17:6",
+          "sr:correct_score:bestof:33:728": "17:7",
+          "sr:correct_score:bestof:33:729": "17:8",
+          "sr:correct_score:bestof:33:730": "17:9",
+          "sr:correct_score:bestof:33:731": "17:10",
+          "sr:correct_score:bestof:33:732": "17:11",
+          "sr:correct_score:bestof:33:733": "17:12",
+          "sr:correct_score:bestof:33:734": "17:13",
+          "sr:correct_score:bestof:33:735": "17:14",
+          "sr:correct_score:bestof:33:736": "17:15",
+          "sr:correct_score:bestof:33:737": "17:16",
+          "sr:correct_score:bestof:33:738": "16:17",
+          "sr:correct_score:bestof:33:739": "15:17",
+          "sr:correct_score:bestof:33:740": "14:17",
+          "sr:correct_score:bestof:33:741": "13:17",
+          "sr:correct_score:bestof:33:742": "12:17",
+          "sr:correct_score:bestof:33:743": "11:17",
+          "sr:correct_score:bestof:33:744": "10:17",
+          "sr:correct_score:bestof:33:745": "9:17",
+          "sr:correct_score:bestof:33:746": "8:17",
+          "sr:correct_score:bestof:33:747": "7:17",
+          "sr:correct_score:bestof:33:748": "6:17",
+          "sr:correct_score:bestof:33:749": "5:17",
+          "sr:correct_score:bestof:33:750": "4:17",
+          "sr:correct_score:bestof:33:751": "3:17",
+          "sr:correct_score:bestof:33:752": "2:17",
+          "sr:correct_score:bestof:33:753": "1:17",
+          "sr:correct_score:bestof:33:754": "0:17"
+      }
+  },
+  "sr:winning_margin:9+": {
+      "id": "sr:winning_margin:9+",
+      "outcomes": {
+          "sr:winning_margin:9+:1229": "{$competitor1} by 1-3",
+          "sr:winning_margin:9+:1230": "{$competitor1} by 4-8",
+          "sr:winning_margin:9+:1231": "{$competitor1} by 9+",
+          "sr:winning_margin:9+:1232": "{$competitor2} by 1-3",
+          "sr:winning_margin:9+:1233": "{$competitor2} by 4-8",
+          "sr:winning_margin:9+:1234": "{$competitor2} by 9+",
+          "sr:winning_margin:9+:1235": "draw"
+      }
+  },
+  "sr:point_range:60+": {
+      "id": "sr:point_range:60+",
+      "outcomes": {
+          "sr:point_range:60+:1252": "0-24",
+          "sr:point_range:60+:1253": "25-29",
+          "sr:point_range:60+:1255": "30-34",
+          "sr:point_range:60+:1256": "35-39",
+          "sr:point_range:60+:1257": "40-44",
+          "sr:point_range:60+:1258": "45-49",
+          "sr:point_range:60+:1259": "50-54",
+          "sr:point_range:60+:1260": "55-59",
+          "sr:point_range:60+:1261": "60+"
+      }
+  },
+  "sr:correct_score:bestof:21": {
+      "id": "sr:correct_score:bestof:21",
+      "outcomes": {
+          "sr:correct_score:bestof:21:287": "11:0",
+          "sr:correct_score:bestof:21:288": "11:1",
+          "sr:correct_score:bestof:21:289": "11:2",
+          "sr:correct_score:bestof:21:290": "11:3",
+          "sr:correct_score:bestof:21:291": "11:4",
+          "sr:correct_score:bestof:21:292": "11:5",
+          "sr:correct_score:bestof:21:293": "11:6",
+          "sr:correct_score:bestof:21:294": "11:7",
+          "sr:correct_score:bestof:21:295": "11:8",
+          "sr:correct_score:bestof:21:296": "11:9",
+          "sr:correct_score:bestof:21:297": "11:10",
+          "sr:correct_score:bestof:21:298": "10:11",
+          "sr:correct_score:bestof:21:299": "9:11",
+          "sr:correct_score:bestof:21:300": "8:11",
+          "sr:correct_score:bestof:21:301": "7:11",
+          "sr:correct_score:bestof:21:302": "6:11",
+          "sr:correct_score:bestof:21:303": "5:11",
+          "sr:correct_score:bestof:21:304": "4:11",
+          "sr:correct_score:bestof:21:305": "3:11",
+          "sr:correct_score:bestof:21:306": "2:11",
+          "sr:correct_score:bestof:21:307": "1:11",
+          "sr:correct_score:bestof:21:308": "0:11"
+      }
+  },
+  "sr:correct_score:bestof:30": {
+      "id": "sr:correct_score:bestof:30",
+      "outcomes": {
+          "sr:correct_score:bestof:30:625": "16:0",
+          "sr:correct_score:bestof:30:626": "16:1",
+          "sr:correct_score:bestof:30:627": "16:2",
+          "sr:correct_score:bestof:30:628": "16:3",
+          "sr:correct_score:bestof:30:629": "16:4",
+          "sr:correct_score:bestof:30:630": "16:5",
+          "sr:correct_score:bestof:30:631": "16:6",
+          "sr:correct_score:bestof:30:632": "16:7",
+          "sr:correct_score:bestof:30:633": "16:8",
+          "sr:correct_score:bestof:30:634": "16:9",
+          "sr:correct_score:bestof:30:635": "16:10",
+          "sr:correct_score:bestof:30:636": "16:11",
+          "sr:correct_score:bestof:30:637": "16:12",
+          "sr:correct_score:bestof:30:638": "16:13",
+          "sr:correct_score:bestof:30:639": "16:14",
+          "sr:correct_score:bestof:30:640": "15:15",
+          "sr:correct_score:bestof:30:641": "14:16",
+          "sr:correct_score:bestof:30:642": "13:16",
+          "sr:correct_score:bestof:30:643": "12:16",
+          "sr:correct_score:bestof:30:644": "11:16",
+          "sr:correct_score:bestof:30:645": "10:16",
+          "sr:correct_score:bestof:30:646": "9:16",
+          "sr:correct_score:bestof:30:647": "8:16",
+          "sr:correct_score:bestof:30:648": "7:16",
+          "sr:correct_score:bestof:30:649": "6:16",
+          "sr:correct_score:bestof:30:650": "5:16",
+          "sr:correct_score:bestof:30:651": "4:16",
+          "sr:correct_score:bestof:30:652": "3:16",
+          "sr:correct_score:bestof:30:653": "2:16",
+          "sr:correct_score:bestof:30:654": "1:16",
+          "sr:correct_score:bestof:30:655": "0:16"
+      }
+  },
+  "sr:goal_range:7+": {
+      "id": "sr:goal_range:7+",
+      "outcomes": {
+          "sr:goal_range:7+:1342": "0-1",
+          "sr:goal_range:7+:1343": "2-3",
+          "sr:goal_range:7+:1344": "4-6",
+          "sr:goal_range:7+:1345": "7+"
+      }
+  },
+  "sr:correct_score:bestof:22": {
+      "id": "sr:correct_score:bestof:22",
+      "outcomes": {
+          "sr:correct_score:bestof:22:413": "12:0",
+          "sr:correct_score:bestof:22:414": "12:1",
+          "sr:correct_score:bestof:22:415": "12:2",
+          "sr:correct_score:bestof:22:416": "12:3",
+          "sr:correct_score:bestof:22:417": "12:4",
+          "sr:correct_score:bestof:22:418": "12:5",
+          "sr:correct_score:bestof:22:419": "12:6",
+          "sr:correct_score:bestof:22:420": "12:7",
+          "sr:correct_score:bestof:22:421": "12:8",
+          "sr:correct_score:bestof:22:422": "12:9",
+          "sr:correct_score:bestof:22:423": "12:10",
+          "sr:correct_score:bestof:22:424": "11:11",
+          "sr:correct_score:bestof:22:425": "10:12",
+          "sr:correct_score:bestof:22:426": "9:12",
+          "sr:correct_score:bestof:22:427": "8:12",
+          "sr:correct_score:bestof:22:428": "7:12",
+          "sr:correct_score:bestof:22:429": "6:12",
+          "sr:correct_score:bestof:22:430": "5:12",
+          "sr:correct_score:bestof:22:431": "4:12",
+          "sr:correct_score:bestof:22:432": "3:12",
+          "sr:correct_score:bestof:22:433": "2:12",
+          "sr:correct_score:bestof:22:434": "1:12",
+          "sr:correct_score:bestof:22:435": "0:12"
+      }
+  },
+  "sr:correct_score:bestof:40": {
+      "id": "sr:correct_score:bestof:40",
+      "outcomes": {
+          "sr:correct_score:bestof:40:980": "21:0",
+          "sr:correct_score:bestof:40:981": "21:1",
+          "sr:correct_score:bestof:40:982": "21:2",
+          "sr:correct_score:bestof:40:983": "21:3",
+          "sr:correct_score:bestof:40:984": "21:4",
+          "sr:correct_score:bestof:40:985": "21:5",
+          "sr:correct_score:bestof:40:986": "21:6",
+          "sr:correct_score:bestof:40:987": "21:7",
+          "sr:correct_score:bestof:40:988": "21:8",
+          "sr:correct_score:bestof:40:989": "21:9",
+          "sr:correct_score:bestof:40:990": "21:10",
+          "sr:correct_score:bestof:40:991": "21:11",
+          "sr:correct_score:bestof:40:992": "21:12",
+          "sr:correct_score:bestof:40:993": "21:13",
+          "sr:correct_score:bestof:40:994": "21:14",
+          "sr:correct_score:bestof:40:995": "21:15",
+          "sr:correct_score:bestof:40:996": "21:16",
+          "sr:correct_score:bestof:40:997": "21:17",
+          "sr:correct_score:bestof:40:998": "21:18",
+          "sr:correct_score:bestof:40:999": "21:19",
+          "sr:correct_score:bestof:40:1000": "20:20",
+          "sr:correct_score:bestof:40:1001": "19:21",
+          "sr:correct_score:bestof:40:1002": "18:21",
+          "sr:correct_score:bestof:40:1003": "17:21",
+          "sr:correct_score:bestof:40:1004": "16:21",
+          "sr:correct_score:bestof:40:1005": "15:21",
+          "sr:correct_score:bestof:40:1006": "14:21",
+          "sr:correct_score:bestof:40:1007": "13:21",
+          "sr:correct_score:bestof:40:1008": "12:21",
+          "sr:correct_score:bestof:40:1009": "11:21",
+          "sr:correct_score:bestof:40:1010": "10:21",
+          "sr:correct_score:bestof:40:1011": "9:21",
+          "sr:correct_score:bestof:40:1012": "8:21",
+          "sr:correct_score:bestof:40:1013": "7:21",
+          "sr:correct_score:bestof:40:1014": "6:21",
+          "sr:correct_score:bestof:40:1015": "5:21",
+          "sr:correct_score:bestof:40:1016": "4:21",
+          "sr:correct_score:bestof:40:1017": "3:21",
+          "sr:correct_score:bestof:40:1018": "2:21",
+          "sr:correct_score:bestof:40:1019": "1:21",
+          "sr:correct_score:bestof:40:1020": "0:21"
+      }
+  },
+  "sr:exact_games:bestof:7": {
+      "id": "sr:exact_games:bestof:7",
+      "outcomes": {
+          "sr:exact_games:bestof:7:42": "4",
+          "sr:exact_games:bestof:7:43": "5",
+          "sr:exact_games:bestof:7:45": "6",
+          "sr:exact_games:bestof:7:47": "7"
+      }
+  },
+  "sr:exact_goals:5+": {
+      "id": "sr:exact_goals:5+",
+      "outcomes": {
+          "sr:exact_goals:5+:1336": "0",
+          "sr:exact_goals:5+:1337": "1",
+          "sr:exact_goals:5+:1338": "2",
+          "sr:exact_goals:5+:1339": "3",
+          "sr:exact_goals:5+:1340": "4",
+          "sr:exact_goals:5+:1341": "5+"
+      }
+  },
+  "sr:correct_score:bestof:19": {
+      "id": "sr:correct_score:bestof:19",
+      "outcomes": {
+          "sr:correct_score:bestof:19:267": "10:0",
+          "sr:correct_score:bestof:19:268": "10:1",
+          "sr:correct_score:bestof:19:269": "10:2",
+          "sr:correct_score:bestof:19:270": "10:3",
+          "sr:correct_score:bestof:19:271": "10:4",
+          "sr:correct_score:bestof:19:272": "10:5",
+          "sr:correct_score:bestof:19:273": "10:6",
+          "sr:correct_score:bestof:19:274": "10:7",
+          "sr:correct_score:bestof:19:275": "10:8",
+          "sr:correct_score:bestof:19:276": "10:9",
+          "sr:correct_score:bestof:19:277": "9:10",
+          "sr:correct_score:bestof:19:278": "8:10",
+          "sr:correct_score:bestof:19:279": "7:10",
+          "sr:correct_score:bestof:19:280": "6:10",
+          "sr:correct_score:bestof:19:281": "5:10",
+          "sr:correct_score:bestof:19:282": "4:10",
+          "sr:correct_score:bestof:19:283": "3:10",
+          "sr:correct_score:bestof:19:284": "2:10",
+          "sr:correct_score:bestof:19:285": "1:10",
+          "sr:correct_score:bestof:19:286": "0:10"
+      }
+  },
+  "sr:point_range:219+": {
+      "id": "sr:point_range:219+",
+      "outcomes": {
+          "sr:point_range:219+:1208": "0-144",
+          "sr:point_range:219+:1209": "145-161",
+          "sr:point_range:219+:1210": "162-173",
+          "sr:point_range:219+:1211": "174-186",
+          "sr:point_range:219+:1212": "187-200",
+          "sr:point_range:219+:1213": "201-218",
+          "sr:point_range:219+:1214": "219+"
+      }
+  },
+  "sr:correct_score:bestof:6": {
+      "id": "sr:correct_score:bestof:6",
+      "outcomes": {
+          "sr:correct_score:bestof:6:314": "4:0",
+          "sr:correct_score:bestof:6:315": "4:1",
+          "sr:correct_score:bestof:6:316": "4:2",
+          "sr:correct_score:bestof:6:317": "3:3",
+          "sr:correct_score:bestof:6:318": "2:4",
+          "sr:correct_score:bestof:6:319": "1:4",
+          "sr:correct_score:bestof:6:320": "0:4"
+      }
+  },
+  "sr:exact_games:bestof:5": {
+      "id": "sr:exact_games:bestof:5",
+      "outcomes": {
+          "sr:exact_games:bestof:5:39": "3",
+          "sr:exact_games:bestof:5:40": "4",
+          "sr:exact_games:bestof:5:41": "5"
+      }
+  },
+  "sr:winning_margin:16+": {
+      "id": "sr:winning_margin:16+",
+      "outcomes": {
+          "sr:winning_margin:16+:1215": "{$competitor1} by 1-7",
+          "sr:winning_margin:16+:1216": "{$competitor1} by 8-15",
+          "sr:winning_margin:16+:1217": "{$competitor1} by 16+",
+          "sr:winning_margin:16+:1218": "{$competitor2} by 1-7",
+          "sr:winning_margin:16+:1219": "{$competitor2} by 8-15",
+          "sr:winning_margin:16+:1220": "{$competitor2} by 16+",
+          "sr:winning_margin:16+:1221": "draw"
+      }
+  },
+  "sr:correct_score:until:3": {
+      "id": "sr:correct_score:until:3",
+      "outcomes": {
+          "sr:correct_score:until:3:1262": "0:0",
+          "sr:correct_score:until:3:1263": "1:0",
+          "sr:correct_score:until:3:1264": "2:0",
+          "sr:correct_score:until:3:1265": "3:0",
+          "sr:correct_score:until:3:1266": "0:1",
+          "sr:correct_score:until:3:1267": "1:1",
+          "sr:correct_score:until:3:1268": "2:1",
+          "sr:correct_score:until:3:1269": "3:1",
+          "sr:correct_score:until:3:1270": "0:2",
+          "sr:correct_score:until:3:1271": "1:2",
+          "sr:correct_score:until:3:1272": "2:2",
+          "sr:correct_score:until:3:1273": "3:2",
+          "sr:correct_score:until:3:1274": "0:3",
+          "sr:correct_score:until:3:1275": "1:3",
+          "sr:correct_score:until:3:1276": "2:3",
+          "sr:correct_score:until:3:1277": "3:3",
+          "sr:correct_score:until:3:1278": "other"
+      }
+  },
+  "sr:scoring_type:ice_hockey": {
+      "id": "sr:scoring_type:ice_hockey",
+      "outcomes": {
+          "sr:scoring_type:ice_hockey:1469": "even strength",
+          "sr:scoring_type:ice_hockey:1470": "power-play",
+          "sr:scoring_type:ice_hockey:1471": "short-handed",
+          "sr:scoring_type:ice_hockey:1472": "penalty shot",
+          "sr:scoring_type:ice_hockey:1473": "empty net",
+          "sr:scoring_type:ice_hockey:1474": "no goal"
+      }
+  },
+  "sr:correct_score:bestof:34": {
+      "id": "sr:correct_score:bestof:34",
+      "outcomes": {
+          "sr:correct_score:bestof:34:755": "18:0",
+          "sr:correct_score:bestof:34:756": "18:1",
+          "sr:correct_score:bestof:34:757": "18:2",
+          "sr:correct_score:bestof:34:758": "18:3",
+          "sr:correct_score:bestof:34:759": "18:4",
+          "sr:correct_score:bestof:34:760": "18:5",
+          "sr:correct_score:bestof:34:761": "18:6",
+          "sr:correct_score:bestof:34:762": "18:7",
+          "sr:correct_score:bestof:34:763": "18:8",
+          "sr:correct_score:bestof:34:764": "18:9",
+          "sr:correct_score:bestof:34:765": "18:10",
+          "sr:correct_score:bestof:34:766": "18:11",
+          "sr:correct_score:bestof:34:767": "18:12",
+          "sr:correct_score:bestof:34:768": "18:13",
+          "sr:correct_score:bestof:34:769": "18:14",
+          "sr:correct_score:bestof:34:770": "18:15",
+          "sr:correct_score:bestof:34:771": "18:16",
+          "sr:correct_score:bestof:34:772": "17:17",
+          "sr:correct_score:bestof:34:773": "16:18",
+          "sr:correct_score:bestof:34:774": "15:18",
+          "sr:correct_score:bestof:34:775": "14:18",
+          "sr:correct_score:bestof:34:776": "13:18",
+          "sr:correct_score:bestof:34:777": "12:18",
+          "sr:correct_score:bestof:34:778": "11:18",
+          "sr:correct_score:bestof:34:779": "10:18",
+          "sr:correct_score:bestof:34:780": "9:18",
+          "sr:correct_score:bestof:34:781": "8:18",
+          "sr:correct_score:bestof:34:782": "7:18",
+          "sr:correct_score:bestof:34:783": "6:18",
+          "sr:correct_score:bestof:34:784": "5:18",
+          "sr:correct_score:bestof:34:785": "4:18",
+          "sr:correct_score:bestof:34:786": "3:18",
+          "sr:correct_score:bestof:34:787": "2:18",
+          "sr:correct_score:bestof:34:788": "1:18",
+          "sr:correct_score:bestof:34:789": "0:18"
+      }
+  },
+  "sr:point_range:12+": {
+      "id": "sr:point_range:12+",
+      "outcomes": {
+          "sr:point_range:12+:1141": "0-8",
+          "sr:point_range:12+:1142": "9-11",
+          "sr:point_range:12+:1143": "12+"
+      }
+  },
+  "sr:correct_score:bestof:18": {
+      "id": "sr:correct_score:bestof:18",
+      "outcomes": {
+          "sr:correct_score:bestof:18:373": "10:0",
+          "sr:correct_score:bestof:18:374": "10:1",
+          "sr:correct_score:bestof:18:375": "10:2",
+          "sr:correct_score:bestof:18:376": "10:3",
+          "sr:correct_score:bestof:18:377": "10:4",
+          "sr:correct_score:bestof:18:378": "10:5",
+          "sr:correct_score:bestof:18:379": "10:6",
+          "sr:correct_score:bestof:18:380": "10:7",
+          "sr:correct_score:bestof:18:381": "10:8",
+          "sr:correct_score:bestof:18:382": "9:9",
+          "sr:correct_score:bestof:18:383": "8:10",
+          "sr:correct_score:bestof:18:384": "7:10",
+          "sr:correct_score:bestof:18:385": "6:10",
+          "sr:correct_score:bestof:18:386": "5:10",
+          "sr:correct_score:bestof:18:387": "4:10",
+          "sr:correct_score:bestof:18:388": "3:10",
+          "sr:correct_score:bestof:18:389": "2:10",
+          "sr:correct_score:bestof:18:390": "1:10",
+          "sr:correct_score:bestof:18:391": "0:10"
+      }
+  },
+  "sr:correct_score:bestof:11": {
+      "id": "sr:correct_score:bestof:11",
+      "outcomes": {
+          "sr:correct_score:bestof:11:179": "6:0",
+          "sr:correct_score:bestof:11:181": "6:1",
+          "sr:correct_score:bestof:11:182": "6:2",
+          "sr:correct_score:bestof:11:183": "6:3",
+          "sr:correct_score:bestof:11:184": "6:4",
+          "sr:correct_score:bestof:11:185": "6:5",
+          "sr:correct_score:bestof:11:186": "5:6",
+          "sr:correct_score:bestof:11:187": "4:6",
+          "sr:correct_score:bestof:11:188": "3:6",
+          "sr:correct_score:bestof:11:189": "2:6",
+          "sr:correct_score:bestof:11:190": "1:6",
+          "sr:correct_score:bestof:11:191": "0:6"
+      }
+  },
+  "sr:point_range:250.5+": {
+      "id": "sr:point_range:250.5+",
+      "outcomes": {
+          "sr:point_range:250.5+:167": "0-150",
+          "sr:point_range:250.5+:168": "151-160",
+          "sr:point_range:250.5+:169": "161-170",
+          "sr:point_range:250.5+:170": "171-180",
+          "sr:point_range:250.5+:171": "181-190",
+          "sr:point_range:250.5+:172": "191-200",
+          "sr:point_range:250.5+:173": "201-210",
+          "sr:point_range:250.5+:174": "211-220",
+          "sr:point_range:250.5+:175": "221-230",
+          "sr:point_range:250.5+:176": "231-240",
+          "sr:point_range:250.5+:177": "241-250",
+          "sr:point_range:250.5+:178": "250.5+"
+      }
+  },
+  "sr:correct_score:bestof:20": {
+      "id": "sr:correct_score:bestof:20",
+      "outcomes": {
+          "sr:correct_score:bestof:20:392": "11:0",
+          "sr:correct_score:bestof:20:393": "11:1",
+          "sr:correct_score:bestof:20:394": "11:2",
+          "sr:correct_score:bestof:20:395": "11:3",
+          "sr:correct_score:bestof:20:396": "11:4",
+          "sr:correct_score:bestof:20:397": "11:5",
+          "sr:correct_score:bestof:20:398": "11:6",
+          "sr:correct_score:bestof:20:399": "11:7",
+          "sr:correct_score:bestof:20:400": "11:8",
+          "sr:correct_score:bestof:20:401": "11:9",
+          "sr:correct_score:bestof:20:402": "10:10",
+          "sr:correct_score:bestof:20:403": "9:11",
+          "sr:correct_score:bestof:20:404": "8:11",
+          "sr:correct_score:bestof:20:405": "7:11",
+          "sr:correct_score:bestof:20:406": "6:11",
+          "sr:correct_score:bestof:20:407": "5:11",
+          "sr:correct_score:bestof:20:408": "4:11",
+          "sr:correct_score:bestof:20:409": "3:11",
+          "sr:correct_score:bestof:20:410": "2:11",
+          "sr:correct_score:bestof:20:411": "1:11",
+          "sr:correct_score:bestof:20:412": "0:11"
+      }
+  },
+  "sr:correct_score:bestof:3": {
+      "id": "sr:correct_score:bestof:3",
+      "outcomes": {
+          "sr:correct_score:bestof:3:4": "2:0",
+          "sr:correct_score:bestof:3:5": "2:1",
+          "sr:correct_score:bestof:3:6": "1:2",
+          "sr:correct_score:bestof:3:7": "0:2"
+      }
+  },
+  "sr:correct_score:bestof:41": {
+      "id": "sr:correct_score:bestof:41",
+      "outcomes": {
+          "sr:correct_score:bestof:41:1021": "21:0",
+          "sr:correct_score:bestof:41:1022": "21:1",
+          "sr:correct_score:bestof:41:1023": "21:2",
+          "sr:correct_score:bestof:41:1024": "21:3",
+          "sr:correct_score:bestof:41:1025": "21:4",
+          "sr:correct_score:bestof:41:1026": "21:5",
+          "sr:correct_score:bestof:41:1027": "21:6",
+          "sr:correct_score:bestof:41:1028": "21:7",
+          "sr:correct_score:bestof:41:1029": "21:8",
+          "sr:correct_score:bestof:41:1030": "21:9",
+          "sr:correct_score:bestof:41:1031": "21:10",
+          "sr:correct_score:bestof:41:1032": "21:11",
+          "sr:correct_score:bestof:41:1033": "21:12",
+          "sr:correct_score:bestof:41:1034": "21:13",
+          "sr:correct_score:bestof:41:1035": "21:14",
+          "sr:correct_score:bestof:41:1036": "21:15",
+          "sr:correct_score:bestof:41:1037": "21:16",
+          "sr:correct_score:bestof:41:1038": "21:17",
+          "sr:correct_score:bestof:41:1039": "21:18",
+          "sr:correct_score:bestof:41:1040": "21:19",
+          "sr:correct_score:bestof:41:1041": "21:20",
+          "sr:correct_score:bestof:41:1042": "20:21",
+          "sr:correct_score:bestof:41:1043": "19:21",
+          "sr:correct_score:bestof:41:1044": "18:21",
+          "sr:correct_score:bestof:41:1045": "17:21",
+          "sr:correct_score:bestof:41:1046": "16:21",
+          "sr:correct_score:bestof:41:1047": "15:21",
+          "sr:correct_score:bestof:41:1048": "14:21",
+          "sr:correct_score:bestof:41:1049": "13:21",
+          "sr:correct_score:bestof:41:1050": "12:21",
+          "sr:correct_score:bestof:41:1051": "11:21",
+          "sr:correct_score:bestof:41:1052": "10:21",
+          "sr:correct_score:bestof:41:1053": "9:21",
+          "sr:correct_score:bestof:41:1054": "8:21",
+          "sr:correct_score:bestof:41:1055": "7:21",
+          "sr:correct_score:bestof:41:1056": "6:21",
+          "sr:correct_score:bestof:41:1057": "5:21",
+          "sr:correct_score:bestof:41:1058": "4:21",
+          "sr:correct_score:bestof:41:1059": "3:21",
+          "sr:correct_score:bestof:41:1060": "2:21",
+          "sr:correct_score:bestof:41:1061": "1:21",
+          "sr:correct_score:bestof:41:1062": "0:21"
+      }
+  },
+  "sr:exact_goals:2+": {
+      "id": "sr:exact_goals:2+",
+      "outcomes": {
+          "sr:exact_goals:2+:85": "0",
+          "sr:exact_goals:2+:86": "1",
+          "sr:exact_goals:2+:87": "2+"
+      }
+  },
+  "sr:correct_score:bestof:28": {
+      "id": "sr:correct_score:bestof:28",
+      "outcomes": {
+          "sr:correct_score:bestof:28:566": "15:0",
+          "sr:correct_score:bestof:28:567": "15:1",
+          "sr:correct_score:bestof:28:568": "15:2",
+          "sr:correct_score:bestof:28:569": "15:3",
+          "sr:correct_score:bestof:28:570": "15:4",
+          "sr:correct_score:bestof:28:571": "15:5",
+          "sr:correct_score:bestof:28:572": "15:6",
+          "sr:correct_score:bestof:28:573": "15:7",
+          "sr:correct_score:bestof:28:574": "15:8",
+          "sr:correct_score:bestof:28:575": "15:9",
+          "sr:correct_score:bestof:28:576": "15:10",
+          "sr:correct_score:bestof:28:577": "15:11",
+          "sr:correct_score:bestof:28:578": "15:12",
+          "sr:correct_score:bestof:28:579": "15:13",
+          "sr:correct_score:bestof:28:580": "14:14",
+          "sr:correct_score:bestof:28:581": "13:15",
+          "sr:correct_score:bestof:28:582": "12:15",
+          "sr:correct_score:bestof:28:583": "11:15",
+          "sr:correct_score:bestof:28:584": "10:15",
+          "sr:correct_score:bestof:28:585": "9:15",
+          "sr:correct_score:bestof:28:586": "8:15",
+          "sr:correct_score:bestof:28:587": "7:15",
+          "sr:correct_score:bestof:28:588": "6:15",
+          "sr:correct_score:bestof:28:589": "5:15",
+          "sr:correct_score:bestof:28:590": "4:15",
+          "sr:correct_score:bestof:28:591": "3:15",
+          "sr:correct_score:bestof:28:592": "2:15",
+          "sr:correct_score:bestof:28:593": "1:15",
+          "sr:correct_score:bestof:28:594": "0:15"
+      }
+  },
+  "sr:correct_score:bestof:35": {
+      "id": "sr:correct_score:bestof:35",
+      "outcomes": {
+          "sr:correct_score:bestof:35:790": "18:0",
+          "sr:correct_score:bestof:35:791": "18:1",
+          "sr:correct_score:bestof:35:792": "18:2",
+          "sr:correct_score:bestof:35:793": "18:3",
+          "sr:correct_score:bestof:35:794": "18:4",
+          "sr:correct_score:bestof:35:795": "18:5",
+          "sr:correct_score:bestof:35:796": "18:6",
+          "sr:correct_score:bestof:35:797": "18:7",
+          "sr:correct_score:bestof:35:798": "18:8",
+          "sr:correct_score:bestof:35:799": "18:9",
+          "sr:correct_score:bestof:35:800": "18:10",
+          "sr:correct_score:bestof:35:801": "18:11",
+          "sr:correct_score:bestof:35:802": "18:12",
+          "sr:correct_score:bestof:35:803": "18:13",
+          "sr:correct_score:bestof:35:804": "18:14",
+          "sr:correct_score:bestof:35:805": "18:15",
+          "sr:correct_score:bestof:35:806": "18:16",
+          "sr:correct_score:bestof:35:807": "18:17",
+          "sr:correct_score:bestof:35:808": "17:18",
+          "sr:correct_score:bestof:35:809": "16:18",
+          "sr:correct_score:bestof:35:810": "15:18",
+          "sr:correct_score:bestof:35:811": "14:18",
+          "sr:correct_score:bestof:35:812": "13:18",
+          "sr:correct_score:bestof:35:813": "12:18",
+          "sr:correct_score:bestof:35:814": "11:18",
+          "sr:correct_score:bestof:35:815": "10:18",
+          "sr:correct_score:bestof:35:816": "9:18",
+          "sr:correct_score:bestof:35:817": "8:18",
+          "sr:correct_score:bestof:35:818": "7:18",
+          "sr:correct_score:bestof:35:819": "6:18",
+          "sr:correct_score:bestof:35:820": "5:18",
+          "sr:correct_score:bestof:35:821": "4:18",
+          "sr:correct_score:bestof:35:822": "3:18",
+          "sr:correct_score:bestof:35:823": "2:18",
+          "sr:correct_score:bestof:35:824": "1:18",
+          "sr:correct_score:bestof:35:825": "0:18"
+      }
+  },
+  "sr:correct_score:bestof:29": {
+      "id": "sr:correct_score:bestof:29",
+      "outcomes": {
+          "sr:correct_score:bestof:29:595": "15:0",
+          "sr:correct_score:bestof:29:596": "15:1",
+          "sr:correct_score:bestof:29:597": "15:2",
+          "sr:correct_score:bestof:29:598": "15:3",
+          "sr:correct_score:bestof:29:599": "15:4",
+          "sr:correct_score:bestof:29:600": "15:5",
+          "sr:correct_score:bestof:29:601": "15:6",
+          "sr:correct_score:bestof:29:602": "15:7",
+          "sr:correct_score:bestof:29:603": "15:8",
+          "sr:correct_score:bestof:29:604": "15:9",
+          "sr:correct_score:bestof:29:605": "15:10",
+          "sr:correct_score:bestof:29:606": "15:11",
+          "sr:correct_score:bestof:29:607": "15:12",
+          "sr:correct_score:bestof:29:608": "15:13",
+          "sr:correct_score:bestof:29:609": "15:14",
+          "sr:correct_score:bestof:29:610": "14:15",
+          "sr:correct_score:bestof:29:611": "13:15",
+          "sr:correct_score:bestof:29:612": "12:15",
+          "sr:correct_score:bestof:29:613": "11:15",
+          "sr:correct_score:bestof:29:614": "10:15",
+          "sr:correct_score:bestof:29:615": "9:15",
+          "sr:correct_score:bestof:29:616": "8:15",
+          "sr:correct_score:bestof:29:617": "7:15",
+          "sr:correct_score:bestof:29:618": "6:15",
+          "sr:correct_score:bestof:29:619": "5:15",
+          "sr:correct_score:bestof:29:620": "4:15",
+          "sr:correct_score:bestof:29:621": "3:15",
+          "sr:correct_score:bestof:29:622": "2:15",
+          "sr:correct_score:bestof:29:623": "1:15",
+          "sr:correct_score:bestof:29:624": "0:15"
+      }
+  },
+  "sr:exact_goals:3+": {
+      "id": "sr:exact_goals:3+",
+      "outcomes": {
+          "sr:exact_goals:3+:88": "0",
+          "sr:exact_goals:3+:89": "1",
+          "sr:exact_goals:3+:90": "2",
+          "sr:exact_goals:3+:91": "3+"
+      }
+  },
+  "sr:correct_score:bestof:31": {
+      "id": "sr:correct_score:bestof:31",
+      "outcomes": {
+          "sr:correct_score:bestof:31:656": "16:0",
+          "sr:correct_score:bestof:31:657": "16:1",
+          "sr:correct_score:bestof:31:658": "16:2",
+          "sr:correct_score:bestof:31:659": "16:3",
+          "sr:correct_score:bestof:31:660": "16:4",
+          "sr:correct_score:bestof:31:661": "16:5",
+          "sr:correct_score:bestof:31:662": "16:6",
+          "sr:correct_score:bestof:31:663": "16:7",
+          "sr:correct_score:bestof:31:664": "16:8",
+          "sr:correct_score:bestof:31:665": "16:9",
+          "sr:correct_score:bestof:31:666": "16:10",
+          "sr:correct_score:bestof:31:667": "16:11",
+          "sr:correct_score:bestof:31:668": "16:12",
+          "sr:correct_score:bestof:31:669": "16:13",
+          "sr:correct_score:bestof:31:670": "16:14",
+          "sr:correct_score:bestof:31:671": "16:15",
+          "sr:correct_score:bestof:31:672": "15:16",
+          "sr:correct_score:bestof:31:673": "14:16",
+          "sr:correct_score:bestof:31:674": "13:16",
+          "sr:correct_score:bestof:31:675": "12:16",
+          "sr:correct_score:bestof:31:676": "11:16",
+          "sr:correct_score:bestof:31:677": "10:16",
+          "sr:correct_score:bestof:31:678": "9:16",
+          "sr:correct_score:bestof:31:679": "8:16",
+          "sr:correct_score:bestof:31:680": "7:16",
+          "sr:correct_score:bestof:31:681": "6:16",
+          "sr:correct_score:bestof:31:682": "5:16",
+          "sr:correct_score:bestof:31:683": "4:16",
+          "sr:correct_score:bestof:31:684": "3:16",
+          "sr:correct_score:bestof:31:685": "2:16",
+          "sr:correct_score:bestof:31:686": "1:16",
+          "sr:correct_score:bestof:31:687": "0:16"
+      }
+  },
+  "sr:correct_score:max:7": {
+      "id": "sr:correct_score:max:7",
+      "outcomes": {
+          "sr:correct_score:max:7:1157": "0:0",
+          "sr:correct_score:max:7:1158": "0:1",
+          "sr:correct_score:max:7:1159": "0:2",
+          "sr:correct_score:max:7:1160": "0:3",
+          "sr:correct_score:max:7:1161": "0:4",
+          "sr:correct_score:max:7:1162": "0:5",
+          "sr:correct_score:max:7:1163": "0:6",
+          "sr:correct_score:max:7:1164": "0:7",
+          "sr:correct_score:max:7:1165": "1:0",
+          "sr:correct_score:max:7:1166": "1:1",
+          "sr:correct_score:max:7:1167": "1:2",
+          "sr:correct_score:max:7:1168": "1:3",
+          "sr:correct_score:max:7:1169": "1:4",
+          "sr:correct_score:max:7:1170": "1:5",
+          "sr:correct_score:max:7:1171": "1:6",
+          "sr:correct_score:max:7:1172": "2:0",
+          "sr:correct_score:max:7:1173": "2:1",
+          "sr:correct_score:max:7:1174": "2:2",
+          "sr:correct_score:max:7:1175": "2:3",
+          "sr:correct_score:max:7:1176": "2:4",
+          "sr:correct_score:max:7:1177": "2:5",
+          "sr:correct_score:max:7:1178": "3:0",
+          "sr:correct_score:max:7:1179": "3:1",
+          "sr:correct_score:max:7:1180": "3:2",
+          "sr:correct_score:max:7:1181": "3:3",
+          "sr:correct_score:max:7:1182": "3:4",
+          "sr:correct_score:max:7:1183": "4:0",
+          "sr:correct_score:max:7:1184": "4:1",
+          "sr:correct_score:max:7:1185": "4:2",
+          "sr:correct_score:max:7:1186": "4:3",
+          "sr:correct_score:max:7:1187": "5:0",
+          "sr:correct_score:max:7:1188": "5:1",
+          "sr:correct_score:max:7:1189": "5:2",
+          "sr:correct_score:max:7:1190": "6:0",
+          "sr:correct_score:max:7:1191": "6:1",
+          "sr:correct_score:max:7:1192": "7:0",
+          "sr:correct_score:max:7:1193": "other"
+      }
+  },
+  "sr:winning_margin:11+": {
+      "id": "sr:winning_margin:11+",
+      "outcomes": {
+          "sr:winning_margin:11+:123": "{$competitor1} by 11+",
+          "sr:winning_margin:11+:124": "{$competitor1} by 6-10",
+          "sr:winning_margin:11+:125": "{$competitor1} by 1-5",
+          "sr:winning_margin:11+:126": "draw",
+          "sr:winning_margin:11+:127": "{$competitor2} by 1-5",
+          "sr:winning_margin:11+:128": "{$competitor2} by 6-10",
+          "sr:winning_margin:11+:129": "{$competitor2} by 11+"
+      }
+  },
+  "sr:exact_goals:9+": {
+      "id": "sr:exact_goals:9+",
+      "outcomes": {
+          "sr:exact_goals:9+:75": "0",
+          "sr:exact_goals:9+:76": "1",
+          "sr:exact_goals:9+:77": "2",
+          "sr:exact_goals:9+:78": "3",
+          "sr:exact_goals:9+:79": "4",
+          "sr:exact_goals:9+:80": "5",
+          "sr:exact_goals:9+:81": "6",
+          "sr:exact_goals:9+:82": "7",
+          "sr:exact_goals:9+:83": "8",
+          "sr:exact_goals:9+:84": "9+"
+      }
+  },
+  "sr:winning_margin:5+": {
+      "id": "sr:winning_margin:5+",
+      "outcomes": {
+          "sr:winning_margin:5+:1100": "{$competitor1} by 5+",
+          "sr:winning_margin:5+:1101": "{$competitor1} by 3-4",
+          "sr:winning_margin:5+:1102": "{$competitor1} by 1-2",
+          "sr:winning_margin:5+:1103": "draw",
+          "sr:winning_margin:5+:1104": "{$competitor2} by 1-2",
+          "sr:winning_margin:5+:1105": "{$competitor2} by 3-4",
+          "sr:winning_margin:5+:1106": "{$competitor2} by 5+"
+      }
+  },
+  "sr:correct_score:bestof:2": {
+      "id": "sr:correct_score:bestof:2",
+      "outcomes": {
+          "sr:correct_score:bestof:2:1": "2:0",
+          "sr:correct_score:bestof:2:2": "1:1",
+          "sr:correct_score:bestof:2:3": "0:2"
+      }
+  },
+  "sr:correct_score:bestof:4": {
+      "id": "sr:correct_score:bestof:4",
+      "outcomes": {
+          "sr:correct_score:bestof:4:309": "3:0",
+          "sr:correct_score:bestof:4:310": "3:1",
+          "sr:correct_score:bestof:4:311": "2:2",
+          "sr:correct_score:bestof:4:312": "1:3",
+          "sr:correct_score:bestof:4:313": "0:3"
+      }
+  },
+  "sr:point_range:35+": {
+      "id": "sr:point_range:35+",
+      "outcomes": {
+          "sr:point_range:35+:1107": "0-19",
+          "sr:point_range:35+:1108": "20-22",
+          "sr:point_range:35+:1109": "23-25",
+          "sr:point_range:35+:1110": "26-28",
+          "sr:point_range:35+:1111": "29-31",
+          "sr:point_range:35+:1112": "32-34",
+          "sr:point_range:35+:1113": "35+"
+      }
+  },
+  "sr:point_range:7+_2": {
+      "id": "sr:point_range:7+_2",
+      "outcomes": {
+          "sr:point_range:7+_2:1148": "0-4",
+          "sr:point_range:7+_2:1149": "5-6",
+          "sr:point_range:7+_2:1150": "7+"
+      }
+  },
+  "sr:winning_margin:3+": {
+      "id": "sr:winning_margin:3+",
+      "outcomes": {
+          "sr:winning_margin:3+:113": "{$competitor1} by 1",
+          "sr:winning_margin:3+:114": "{$competitor1} by 2",
+          "sr:winning_margin:3+:115": "{$competitor1} by 3+",
+          "sr:winning_margin:3+:116": "{$competitor2} by 1",
+          "sr:winning_margin:3+:117": "{$competitor2} by 2",
+          "sr:winning_margin:3+:118": "{$competitor2} by 3+",
+          "sr:winning_margin:3+:119": "draw"
+      }
+  },
+  "sr:exact_goals:6+": {
+      "id": "sr:exact_goals:6+",
+      "outcomes": {
+          "sr:exact_goals:6+:68": "0",
+          "sr:exact_goals:6+:69": "1",
+          "sr:exact_goals:6+:70": "2",
+          "sr:exact_goals:6+:71": "3",
+          "sr:exact_goals:6+:72": "4",
+          "sr:exact_goals:6+:73": "5",
+          "sr:exact_goals:6+:74": "6+"
+      }
+  },
+  "sr:correct_score:bestof:37": {
+      "id": "sr:correct_score:bestof:37",
+      "outcomes": {
+          "sr:correct_score:bestof:37:863": "19:0",
+          "sr:correct_score:bestof:37:864": "19:1",
+          "sr:correct_score:bestof:37:865": "19:2",
+          "sr:correct_score:bestof:37:866": "19:3",
+          "sr:correct_score:bestof:37:867": "19:4",
+          "sr:correct_score:bestof:37:868": "19:5",
+          "sr:correct_score:bestof:37:869": "19:6",
+          "sr:correct_score:bestof:37:870": "19:7",
+          "sr:correct_score:bestof:37:871": "19:8",
+          "sr:correct_score:bestof:37:872": "19:9",
+          "sr:correct_score:bestof:37:873": "19:10",
+          "sr:correct_score:bestof:37:874": "19:11",
+          "sr:correct_score:bestof:37:875": "19:12",
+          "sr:correct_score:bestof:37:876": "19:13",
+          "sr:correct_score:bestof:37:877": "19:14",
+          "sr:correct_score:bestof:37:878": "19:15",
+          "sr:correct_score:bestof:37:879": "19:16",
+          "sr:correct_score:bestof:37:880": "19:17",
+          "sr:correct_score:bestof:37:881": "19:18",
+          "sr:correct_score:bestof:37:882": "18:19",
+          "sr:correct_score:bestof:37:883": "17:19",
+          "sr:correct_score:bestof:37:884": "16:19",
+          "sr:correct_score:bestof:37:885": "15:19",
+          "sr:correct_score:bestof:37:886": "14:19",
+          "sr:correct_score:bestof:37:887": "13:19",
+          "sr:correct_score:bestof:37:888": "12:19",
+          "sr:correct_score:bestof:37:889": "11:19",
+          "sr:correct_score:bestof:37:890": "10:19",
+          "sr:correct_score:bestof:37:891": "9:19",
+          "sr:correct_score:bestof:37:892": "8:19",
+          "sr:correct_score:bestof:37:893": "7:19",
+          "sr:correct_score:bestof:37:894": "6:19",
+          "sr:correct_score:bestof:37:895": "5:19",
+          "sr:correct_score:bestof:37:896": "4:19",
+          "sr:correct_score:bestof:37:897": "3:19",
+          "sr:correct_score:bestof:37:898": "2:19",
+          "sr:correct_score:bestof:37:899": "1:19",
+          "sr:correct_score:bestof:37:900": "0:19"
+      }
+  },
+  "sr:winner_and_rounds:12": {
+      "id": "sr:winner_and_rounds:12",
+      "outcomes": {
+          "sr:winner_and_rounds:12:1403": "{$competitor1} & 1",
+          "sr:winner_and_rounds:12:1404": "{$competitor1} & 2",
+          "sr:winner_and_rounds:12:1405": "{$competitor1} & 3",
+          "sr:winner_and_rounds:12:1406": "{$competitor1} & 4",
+          "sr:winner_and_rounds:12:1407": "{$competitor1} & 5",
+          "sr:winner_and_rounds:12:1408": "{$competitor1} & 6",
+          "sr:winner_and_rounds:12:1409": "{$competitor1} & 7",
+          "sr:winner_and_rounds:12:1410": "{$competitor1} & 8",
+          "sr:winner_and_rounds:12:1411": "{$competitor1} & 9",
+          "sr:winner_and_rounds:12:1412": "{$competitor1} & 10",
+          "sr:winner_and_rounds:12:1413": "{$competitor1} & 11",
+          "sr:winner_and_rounds:12:1414": "{$competitor1} & 12",
+          "sr:winner_and_rounds:12:1415": "{$competitor1} & decision",
+          "sr:winner_and_rounds:12:1416": "draw",
+          "sr:winner_and_rounds:12:1417": "{$competitor2} & 1",
+          "sr:winner_and_rounds:12:1418": "{$competitor2} & 2",
+          "sr:winner_and_rounds:12:1419": "{$competitor2} & 3",
+          "sr:winner_and_rounds:12:1420": "{$competitor2} & 4",
+          "sr:winner_and_rounds:12:1421": "{$competitor2} & 5",
+          "sr:winner_and_rounds:12:1422": "{$competitor2} & 6",
+          "sr:winner_and_rounds:12:1423": "{$competitor2} & 7",
+          "sr:winner_and_rounds:12:1424": "{$competitor2} & 8",
+          "sr:winner_and_rounds:12:1425": "{$competitor2} & 9",
+          "sr:winner_and_rounds:12:1426": "{$competitor2} & 10",
+          "sr:winner_and_rounds:12:1427": "{$competitor2} & 11",
+          "sr:winner_and_rounds:12:1428": "{$competitor2} & 12",
+          "sr:winner_and_rounds:12:1429": "{$competitor2} & decision"
+      }
+  },
+  "sr:winning_margin_no_draw:26+": {
+      "id": "sr:winning_margin_no_draw:26+",
+      "outcomes": {
+          "sr:winning_margin_no_draw:26+:1283": "{$competitor1} by 1-5",
+          "sr:winning_margin_no_draw:26+:1284": "{$competitor1} by 6-10",
+          "sr:winning_margin_no_draw:26+:1285": "{$competitor1} by 11-15",
+          "sr:winning_margin_no_draw:26+:1286": "{$competitor1} by 16-20",
+          "sr:winning_margin_no_draw:26+:1287": "{$competitor1} by 21-25",
+          "sr:winning_margin_no_draw:26+:1288": "{$competitor1} by 26+",
+          "sr:winning_margin_no_draw:26+:1289": "{$competitor2} by 1-5",
+          "sr:winning_margin_no_draw:26+:1290": "{$competitor2} by 6-10",
+          "sr:winning_margin_no_draw:26+:1291": "{$competitor2} by 11-15",
+          "sr:winning_margin_no_draw:26+:1292": "{$competitor2} by 16-20",
+          "sr:winning_margin_no_draw:26+:1293": "{$competitor2} by 21-25",
+          "sr:winning_margin_no_draw:26+:1294": "{$competitor2} by 26+"
+      }
+  },
+  "sr:winning_margin:15+": {
+      "id": "sr:winning_margin:15+",
+      "outcomes": {
+          "sr:winning_margin:15+:130": "{$competitor1} by 15+",
+          "sr:winning_margin:15+:131": "{$competitor1} by 8-14",
+          "sr:winning_margin:15+:132": "{$competitor1} by 1-7",
+          "sr:winning_margin:15+:133": "draw",
+          "sr:winning_margin:15+:134": "{$competitor2} by 1-7",
+          "sr:winning_margin:15+:135": "{$competitor2} by 8-14",
+          "sr:winning_margin:15+:136": "{$competitor2} by 15+"
+      }
+  },
+  "sr:winner_and_round_range:12": {
+      "id": "sr:winner_and_round_range:12",
+      "outcomes": {
+          "sr:winner_and_round_range:12:1380": "{$competitor1} & 1-3",
+          "sr:winner_and_round_range:12:1381": "{$competitor1} & 4-6",
+          "sr:winner_and_round_range:12:1382": "{$competitor1} & 7-9",
+          "sr:winner_and_round_range:12:1383": "{$competitor1} & 10-12",
+          "sr:winner_and_round_range:12:1384": "{$competitor1} & decision",
+          "sr:winner_and_round_range:12:1385": "draw",
+          "sr:winner_and_round_range:12:1386": "{$competitor2} & 1-3",
+          "sr:winner_and_round_range:12:1387": "{$competitor2} & 4-6",
+          "sr:winner_and_round_range:12:1388": "{$competitor2} & 7-9",
+          "sr:winner_and_round_range:12:1389": "{$competitor2} & 10-12",
+          "sr:winner_and_round_range:12:1390": "{$competitor2} & decision"
+      }
+  },
+  "sr:correct_score:bestof:8": {
+      "id": "sr:correct_score:bestof:8",
+      "outcomes": {
+          "sr:correct_score:bestof:8:321": "5:0",
+          "sr:correct_score:bestof:8:322": "5:1",
+          "sr:correct_score:bestof:8:323": "5:2",
+          "sr:correct_score:bestof:8:324": "5:3",
+          "sr:correct_score:bestof:8:325": "4:4",
+          "sr:correct_score:bestof:8:326": "3:5",
+          "sr:correct_score:bestof:8:327": "2:5",
+          "sr:correct_score:bestof:8:328": "1:5",
+          "sr:correct_score:bestof:8:329": "0:5"
+      }
+  },
+  "sr:correct_score:bestof:13": {
+      "id": "sr:correct_score:bestof:13",
+      "outcomes": {
+          "sr:correct_score:bestof:13:206": "7:0",
+          "sr:correct_score:bestof:13:220": "7:1",
+          "sr:correct_score:bestof:13:221": "7:2",
+          "sr:correct_score:bestof:13:222": "7:3",
+          "sr:correct_score:bestof:13:223": "7:4",
+          "sr:correct_score:bestof:13:224": "7:5",
+          "sr:correct_score:bestof:13:225": "7:6",
+          "sr:correct_score:bestof:13:226": "6:7",
+          "sr:correct_score:bestof:13:227": "5:7",
+          "sr:correct_score:bestof:13:228": "4:7",
+          "sr:correct_score:bestof:13:229": "3:7",
+          "sr:correct_score:bestof:13:230": "2:7",
+          "sr:correct_score:bestof:13:231": "1:7",
+          "sr:correct_score:bestof:13:232": "0:7"
+      }
+  },
+  "sr:point_range:110+": {
+      "id": "sr:point_range:110+",
+      "outcomes": {
+          "sr:point_range:110+:1222": "0-71",
+          "sr:point_range:110+:1223": "72-80",
+          "sr:point_range:110+:1224": "81-86",
+          "sr:point_range:110+:1225": "87-93",
+          "sr:point_range:110+:1226": "94-100",
+          "sr:point_range:110+:1227": "101-109",
+          "sr:point_range:110+:1228": "110+"
+      }
+  },
+  "sr:winning_method:ko_decision": {
+      "id": "sr:winning_method:ko_decision",
+      "outcomes": {
+          "sr:winning_method:ko_decision:1375": "{$competitor1} by ko",
+          "sr:winning_method:ko_decision:1376": "{$competitor1} by decision",
+          "sr:winning_method:ko_decision:1377": "draw",
+          "sr:winning_method:ko_decision:1378": "{$competitor2} by ko",
+          "sr:winning_method:ko_decision:1379": "{$competitor2} by decision"
+      }
+  },
+  "sr:exact_sets:bestof:7": {
+      "id": "sr:exact_sets:bestof:7",
+      "outcomes": {
+          "sr:exact_sets:bestof:7:1279": "4",
+          "sr:exact_sets:bestof:7:1280": "5",
+          "sr:exact_sets:bestof:7:1281": "6",
+          "sr:exact_sets:bestof:7:1282": "7"
+      }
+  },
+  "sr:correct_score:bestof:27": {
+      "id": "sr:correct_score:bestof:27",
+      "outcomes": {
+          "sr:correct_score:bestof:27:538": "14:0",
+          "sr:correct_score:bestof:27:539": "14:1",
+          "sr:correct_score:bestof:27:540": "14:2",
+          "sr:correct_score:bestof:27:541": "14:3",
+          "sr:correct_score:bestof:27:542": "14:4",
+          "sr:correct_score:bestof:27:543": "14:5",
+          "sr:correct_score:bestof:27:544": "14:6",
+          "sr:correct_score:bestof:27:545": "14:7",
+          "sr:correct_score:bestof:27:546": "14:8",
+          "sr:correct_score:bestof:27:547": "14:9",
+          "sr:correct_score:bestof:27:548": "14:10",
+          "sr:correct_score:bestof:27:549": "14:11",
+          "sr:correct_score:bestof:27:550": "14:12",
+          "sr:correct_score:bestof:27:551": "14:13",
+          "sr:correct_score:bestof:27:552": "13:14",
+          "sr:correct_score:bestof:27:553": "12:14",
+          "sr:correct_score:bestof:27:554": "11:14",
+          "sr:correct_score:bestof:27:555": "10:14",
+          "sr:correct_score:bestof:27:556": "9:14",
+          "sr:correct_score:bestof:27:557": "8:14",
+          "sr:correct_score:bestof:27:558": "7:14",
+          "sr:correct_score:bestof:27:559": "6:14",
+          "sr:correct_score:bestof:27:560": "5:14",
+          "sr:correct_score:bestof:27:561": "4:14",
+          "sr:correct_score:bestof:27:562": "3:14",
+          "sr:correct_score:bestof:27:563": "2:14",
+          "sr:correct_score:bestof:27:564": "1:14",
+          "sr:correct_score:bestof:27:565": "0:14"
+      }
+  },
+  "sr:winner_and_rounds:5": {
+      "id": "sr:winner_and_rounds:5",
+      "outcomes": {
+          "sr:winner_and_rounds:5:1362": "{$competitor1} & 1",
+          "sr:winner_and_rounds:5:1363": "{$competitor1} & 2",
+          "sr:winner_and_rounds:5:1364": "{$competitor1} & 3",
+          "sr:winner_and_rounds:5:1365": "{$competitor1} & 4",
+          "sr:winner_and_rounds:5:1366": "{$competitor1} & 5",
+          "sr:winner_and_rounds:5:1367": "{$competitor1} & decision",
+          "sr:winner_and_rounds:5:1368": "draw",
+          "sr:winner_and_rounds:5:1369": "{$competitor2} & 1",
+          "sr:winner_and_rounds:5:1370": "{$competitor2} & 2",
+          "sr:winner_and_rounds:5:1371": "{$competitor2} & 3",
+          "sr:winner_and_rounds:5:1372": "{$competitor2} & 4",
+          "sr:winner_and_rounds:5:1373": "{$competitor2} & 5",
+          "sr:winner_and_rounds:5:1374": "{$competitor2} & decision"
+      }
+  },
+  "sr:point_range:76+": {
+      "id": "sr:point_range:76+",
+      "outcomes": {
+          "sr:point_range:76+:1132": "0-30",
+          "sr:point_range:76+:1133": "31-45",
+          "sr:point_range:76+:1134": "46-60",
+          "sr:point_range:76+:1135": "61-75",
+          "sr:point_range:76+:1136": "76+"
+      }
+  },
+  "sr:correct_score:bestof:36": {
+      "id": "sr:correct_score:bestof:36",
+      "outcomes": {
+          "sr:correct_score:bestof:36:826": "19:0",
+          "sr:correct_score:bestof:36:827": "19:1",
+          "sr:correct_score:bestof:36:828": "19:2",
+          "sr:correct_score:bestof:36:829": "19:3",
+          "sr:correct_score:bestof:36:830": "19:4",
+          "sr:correct_score:bestof:36:831": "19:5",
+          "sr:correct_score:bestof:36:832": "19:6",
+          "sr:correct_score:bestof:36:833": "19:7",
+          "sr:correct_score:bestof:36:834": "19:8",
+          "sr:correct_score:bestof:36:835": "19:9",
+          "sr:correct_score:bestof:36:836": "19:10",
+          "sr:correct_score:bestof:36:837": "19:11",
+          "sr:correct_score:bestof:36:838": "19:12",
+          "sr:correct_score:bestof:36:839": "19:13",
+          "sr:correct_score:bestof:36:840": "19:14",
+          "sr:correct_score:bestof:36:841": "19:15",
+          "sr:correct_score:bestof:36:842": "19:16",
+          "sr:correct_score:bestof:36:843": "19:17",
+          "sr:correct_score:bestof:36:844": "18:18",
+          "sr:correct_score:bestof:36:845": "17:19",
+          "sr:correct_score:bestof:36:846": "16:19",
+          "sr:correct_score:bestof:36:847": "15:19",
+          "sr:correct_score:bestof:36:848": "14:19",
+          "sr:correct_score:bestof:36:849": "13:19",
+          "sr:correct_score:bestof:36:850": "12:19",
+          "sr:correct_score:bestof:36:851": "11:19",
+          "sr:correct_score:bestof:36:852": "10:19",
+          "sr:correct_score:bestof:36:853": "9:19",
+          "sr:correct_score:bestof:36:854": "8:19",
+          "sr:correct_score:bestof:36:855": "7:19",
+          "sr:correct_score:bestof:36:856": "6:19",
+          "sr:correct_score:bestof:36:857": "5:19",
+          "sr:correct_score:bestof:36:858": "4:19",
+          "sr:correct_score:bestof:36:859": "3:19",
+          "sr:correct_score:bestof:36:860": "2:19",
+          "sr:correct_score:bestof:36:861": "1:19",
+          "sr:correct_score:bestof:36:862": "0:19"
+      }
+  },
+  "sr:correct_score:bestof:7": {
+      "id": "sr:correct_score:bestof:7",
+      "outcomes": {
+          "sr:correct_score:bestof:7:14": "4:0",
+          "sr:correct_score:bestof:7:15": "4:1",
+          "sr:correct_score:bestof:7:16": "4:2",
+          "sr:correct_score:bestof:7:17": "4:3",
+          "sr:correct_score:bestof:7:18": "3:4",
+          "sr:correct_score:bestof:7:19": "2:4",
+          "sr:correct_score:bestof:7:20": "1:4",
+          "sr:correct_score:bestof:7:21": "0:4"
+      }
+  },
+  "sr:correct_score:bestof:5": {
+      "id": "sr:correct_score:bestof:5",
+      "outcomes": {
+          "sr:correct_score:bestof:5:8": "3:0",
+          "sr:correct_score:bestof:5:9": "3:1",
+          "sr:correct_score:bestof:5:10": "3:2",
+          "sr:correct_score:bestof:5:11": "2:3",
+          "sr:correct_score:bestof:5:12": "1:3",
+          "sr:correct_score:bestof:5:13": "0:3"
+      }
+  },
+  "sr:point_range:41+": {
+      "id": "sr:point_range:41+",
+      "outcomes": {
+          "sr:point_range:41+:1137": "0-10",
+          "sr:point_range:41+:1138": "11-25",
+          "sr:point_range:41+:1139": "26-40",
+          "sr:point_range:41+:1140": "41+"
+      }
+  },
+  "sr:point_range:23+": {
+      "id": "sr:point_range:23+",
+      "outcomes": {
+          "sr:point_range:23+:1063": "0-12",
+          "sr:point_range:23+:1064": "13-14",
+          "sr:point_range:23+:1065": "15-16",
+          "sr:point_range:23+:1066": "17-18",
+          "sr:point_range:23+:1067": "19-20",
+          "sr:point_range:23+:1068": "21-22",
+          "sr:point_range:23+:1069": "23+"
+      }
+  },
+  "sr:decided_by_extra_points:bestof:3": {
+      "id": "sr:decided_by_extra_points:bestof:3",
+      "outcomes": {
+          "sr:decided_by_extra_points:bestof:3:48": "0",
+          "sr:decided_by_extra_points:bestof:3:50": "1",
+          "sr:decided_by_extra_points:bestof:3:51": "2",
+          "sr:decided_by_extra_points:bestof:3:52": "3"
+      }
+  },
+  "sr:point_range:7+": {
+      "id": "sr:point_range:7+",
+      "outcomes": {
+          "sr:point_range:7+:1144": "0-2",
+          "sr:point_range:7+:1145": "3-4",
+          "sr:point_range:7+:1146": "5-6",
+          "sr:point_range:7+:1147": "7+"
+      }
+  }
+}
